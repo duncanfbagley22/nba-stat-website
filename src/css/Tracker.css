@@ -1,0 +1,69 @@
+.tracker-container {
+    width: 100%;
+    max-width: 600px;
+    margin: 10px auto;
+    padding: 15px;
+    position: relative;
+    text-align: center;
+    font-family: "Comic Sans MS", "Arial", sans-serif; /* Cartoonish font */
+  }
+  
+  .tracker-title {
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3);
+  }
+  
+  .progress-bar {
+    width: 100%;
+    height: 40px;
+    background-color: #ddd;
+    border: 4px solid black;
+    border-radius: 12px;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    align-items: center;
+  }
+  
+  .progress-fill {
+    height: 100%;
+    background: linear-gradient(to bottom, #AEE1FF, #80C9F4);
+    transition: width 0.5s ease-in-out;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.7);
+    border-right: 3px solid black;
+  }
+  
+  .progress-text {
+    position: relative;
+    z-index: 2;
+  }
+  
+  .target-text {
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+    text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.5);
+  }
+  
+  /* Tooltip follows cursor */
+  .tooltip {
+    position: fixed;
+    background-color: black;
+    color: white;
+    font-size: 14px;
+    padding: 8px 12px;
+    border-radius: 6px;
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2);
+    white-space: nowrap;
+    pointer-events: none; /* Prevents interfering with mouse events */
+  }
+  

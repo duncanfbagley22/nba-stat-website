@@ -22,12 +22,15 @@ a:hover {
   color: #535bf2;
 }
 
-body {
+html, body {
   margin: 0;
-  display: flex;
-  place-items: center;
-  min-width: 320px;
+  padding: 0;
+  min-width: 100vw;
   min-height: 100vh;
+  background: url('https://www.transparenttextures.com/patterns/wood-pattern.png'), #d4b89b;
+  background-blend-mode: overlay;
+  background-repeat: repeat; /* Ensures seamless tiling */
+  background-attachment: fixed;
 }
 
 h1 {
@@ -52,6 +55,47 @@ button:hover {
 button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
+}
+
+.middle-line {
+  position: fixed;
+  top: 0;
+  left: 50%;
+  width: 2px;
+  height: 100vh;
+  background-color: red; /* Change color as needed */
+  z-index: 9999;
+  pointer-events: none; /* Ensures it doesn't interfere with clicks */
+}
+
+.left-line {
+  position: fixed;
+  top: 0;
+  left: 25%;
+  width: 2px;
+  height: 100vh;
+  background-color: red; /* Change color as needed */
+  z-index: 9999;
+  pointer-events: none; /* Ensures it doesn't interfere with clicks */
+}
+
+.right-line {
+  position: fixed;
+  top: 0;
+  left: 75%;
+  width: 2px;
+  height: 100vh;
+  background-color: red; /* Change color as needed */
+  z-index: 9999;
+  pointer-events: none; /* Ensures it doesn't interfere with clicks */
+}
+
+hr {
+  width: 75%;
+  margin-top: 30px; /* Centers the line */
+  border: none;
+  height: 2px; /* Adjust thickness */
+  background-color: black; /* Adjust color */
 }
 
 @media (prefers-color-scheme: light) {

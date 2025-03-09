@@ -1,0 +1,63 @@
+.overtime-grid {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.overtime-wrapper {
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  text-align: center;
+  overflow-x: auto; /* Allow horizontal scrolling */
+}
+
+.overtime-title {
+  font-size: 16px;
+  margin-bottom: 15px;
+  color: black;
+}
+
+/* Grid Layout */
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(31, 30px); /* 30 teams + 1 for left header */
+  grid-template-rows: auto repeat(30, 30px); /* 30 rows for each team */
+  gap: 2px;
+  border: 2px solid #ddd;
+  background: #f8f8f8; /* Set background for the entire grid */
+  padding: 10px;
+}
+
+/* Headers */
+.grid-header {
+  display: contents; /* Keep headers inside the grid */
+}
+
+.grid-header-cell {
+  font-weight: bold;
+  text-align: center;
+  background: #8f8f8f;
+  padding: 5px;
+  border: 1px solid #ccc;
+  font-size: 8px;
+  
+}
+
+.grid-corner {
+  background: white;
+  border-right: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+}
+
+/* Grid Rows */
+.grid-row {
+  display: contents;
+}
+
+.grid-cell {
+  width: 30px;
+  height: 30px;
+  border: 1px solid #ddd;
+}

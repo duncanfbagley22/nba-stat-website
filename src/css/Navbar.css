@@ -1,0 +1,38 @@
+/* Add some space between the navbar and the top */
+.navbar {
+    position: sticky; /* Sticks near the top when scrolling */
+    background-color: #2C3E50; /* White background */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    padding: 0.5rem 2rem; /* Add some padding for spacing */
+    border-radius: 12px; /* Rounded corners for a modern look */
+    margin: 0 auto;
+    width: 75%;
+    max-width: 1200px; /* Center navbar and keep it from stretching too wide */
+    z-index: 1000; /* Ensure it appears above other elements */
+    color: #fff;
+  }
+  
+  /* Flex container for navbar links */
+  .navbar-container {
+    display: flex;
+    justify-content: space-between; /* Spread links evenly */
+    align-items: center;
+  }
+  
+  /* Style for the links */
+  .navbar-link {
+    text-decoration: none; /* Remove underline */
+    color: #fff; /* Dark text color */
+    font-size: 1rem; /* Slightly larger font size */
+    font-weight: 500;
+    padding: 0.5rem 1rem;
+    transition: all 0.3s ease; /* Smooth hover effect */
+  }
+  
+  /* Hover effects for links */
+  .navbar-link:hover {
+    color: #007bff; /* Change color on hover (e.g., blue) */
+    background-color: rgba(0, 123, 255, 0.1); /* Add a light blue background */
+    border-radius: 8px;
+  }
+  
