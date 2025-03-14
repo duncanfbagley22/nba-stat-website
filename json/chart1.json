@@ -6,371 +6,371 @@
     {
       "f_name": "CJ",
       "name": "CJ McCollum",
-      "sum": 16689,
+      "pts": 16689,
       "rank_of_player": 1,
       "group_total": 31140
     },
     {
       "f_name": "CJ",
       "name": "C.J. Miles",
-      "sum": 8431,
+      "pts": 8431,
       "rank_of_player": 2,
       "group_total": 31140
     },
     {
       "f_name": "CJ",
       "name": "C.J. Watson",
-      "sum": 4606,
+      "pts": 4606,
       "rank_of_player": 3,
       "group_total": 31140
     },
     {
       "f_name": "CJ",
       "name": "C.J. Kupec",
-      "sum": 627,
+      "pts": 627,
       "rank_of_player": 4,
       "group_total": 31140
     },
     {
       "f_name": "CJ",
       "name": "CJ Elleby",
-      "sum": 407,
+      "pts": 407,
       "rank_of_player": 5,
       "group_total": 31140
     },
     {
       "f_name": "CJ",
       "name": "C.J. Williams",
-      "sum": 248,
+      "pts": 248,
       "rank_of_player": 6,
       "group_total": 31140
     },
     {
       "f_name": "CJ",
       "name": "C.J. Wilcox",
-      "sum": 132,
+      "pts": 132,
       "rank_of_player": 7,
       "group_total": 31140
     },
     {
       "f_name": "JJ",
       "name": "JJ Redick",
-      "sum": 13224,
+      "pts": 13224,
       "rank_of_player": 1,
       "group_total": 26914
     },
     {
       "f_name": "JJ",
       "name": "J.J. Barea",
-      "sum": 7808,
+      "pts": 7808,
       "rank_of_player": 2,
       "group_total": 26914
     },
     {
       "f_name": "JJ",
       "name": "J.J. Hickson",
-      "sum": 5120,
+      "pts": 5120,
       "rank_of_player": 3,
       "group_total": 26914
     },
     {
       "f_name": "JJ",
       "name": "J.J. Anderson",
-      "sum": 762,
+      "pts": 762,
       "rank_of_player": 4,
       "group_total": 26914
     },
     {
       "f_name": "JJ",
       "name": "J.J. O'Brien",
-      "sum": 0,
+      "pts": 0,
       "rank_of_player": 5,
       "group_total": 26914
     },
     {
       "f_name": "PJ",
       "name": "P.J. Brown",
-      "sum": 10627,
+      "pts": 10627,
       "rank_of_player": 1,
       "group_total": 23877
     },
     {
       "f_name": "PJ",
       "name": "P.J. Tucker",
-      "sum": 6580,
+      "pts": 6580,
       "rank_of_player": 2,
       "group_total": 23877
     },
     {
       "f_name": "PJ",
       "name": "P.J. Washington",
-      "sum": 5240,
+      "pts": 5240,
       "rank_of_player": 3,
       "group_total": 23877
     },
     {
       "f_name": "PJ",
       "name": "PJ Dozier",
-      "sum": 746,
+      "pts": 746,
       "rank_of_player": 4,
       "group_total": 23877
     },
     {
       "f_name": "PJ",
       "name": "P.J. Hairston",
-      "sum": 669,
+      "pts": 669,
       "rank_of_player": 5,
       "group_total": 23877
     },
     {
       "f_name": "PJ",
       "name": "PJ Hall",
-      "sum": 15,
+      "pts": 15,
       "rank_of_player": 6,
       "group_total": 23877
     },
     {
       "f_name": "TJ",
       "name": "T.J. Warren",
-      "sum": 5593,
+      "pts": 5593,
       "rank_of_player": 1,
       "group_total": 16650
     },
     {
       "f_name": "TJ",
       "name": "T.J. McConnell",
-      "sum": 5551,
+      "pts": 5551,
       "rank_of_player": 2,
       "group_total": 16650
     },
     {
       "f_name": "TJ",
       "name": "T.J. Ford",
-      "sum": 5021,
+      "pts": 5021,
       "rank_of_player": 3,
       "group_total": 16650
     },
     {
       "f_name": "TJ",
       "name": "T.J. Leaf",
-      "sum": 485,
+      "pts": 485,
       "rank_of_player": 4,
       "group_total": 16650
     },
     {
       "f_name": "DJ",
       "name": "D.J. Augustin",
-      "sum": 9570,
+      "pts": 9570,
       "rank_of_player": 1,
       "group_total": 11604
     },
     {
       "f_name": "DJ",
       "name": "D.J. White",
-      "sum": 810,
+      "pts": 810,
       "rank_of_player": 2,
       "group_total": 11604
     },
     {
       "f_name": "DJ",
       "name": "D.J. Wilson",
-      "sum": 676,
+      "pts": 676,
       "rank_of_player": 3,
       "group_total": 11604
     },
     {
       "f_name": "DJ",
       "name": "D.J. Mbenga",
-      "sum": 440,
+      "pts": 440,
       "rank_of_player": 4,
       "group_total": 11604
     },
     {
       "f_name": "DJ",
       "name": "D.J. Strawberry",
-      "sum": 73,
+      "pts": 73,
       "rank_of_player": 5,
       "group_total": 11604
     },
     {
       "f_name": "DJ",
       "name": "D.J. Carton",
-      "sum": 14,
+      "pts": 14,
       "rank_of_player": 6,
       "group_total": 11604
     },
     {
       "f_name": "DJ",
       "name": "D.J. Kennedy",
-      "sum": 12,
+      "pts": 12,
       "rank_of_player": 7,
       "group_total": 11604
     },
     {
       "f_name": "DJ",
       "name": "D.J. Stephens",
-      "sum": 9,
+      "pts": 9,
       "rank_of_player": 8,
       "group_total": 11604
     },
     {
       "f_name": "RJ",
       "name": "RJ Barrett",
-      "sum": 7440,
+      "pts": 7440,
       "rank_of_player": 1,
       "group_total": 8748
     },
     {
       "f_name": "RJ",
       "name": "R.J. Hampton",
-      "sum": 1155,
+      "pts": 1155,
       "rank_of_player": 2,
       "group_total": 8748
     },
     {
       "f_name": "RJ",
       "name": "R.J. Hunter",
-      "sum": 138,
+      "pts": 138,
       "rank_of_player": 3,
       "group_total": 8748
     },
     {
       "f_name": "RJ",
       "name": "RJ Nembhard Jr.",
-      "sum": 15,
+      "pts": 15,
       "rank_of_player": 4,
       "group_total": 8748
     },
     {
       "f_name": "BJ",
       "name": "B.J. Armstrong",
-      "sum": 8147,
+      "pts": 8147,
       "rank_of_player": 1,
       "group_total": 8424
     },
     {
       "f_name": "BJ",
       "name": "B.J. Tyler",
-      "sum": 195,
+      "pts": 195,
       "rank_of_player": 2,
       "group_total": 8424
     },
     {
       "f_name": "BJ",
       "name": "B.J. Johnson",
-      "sum": 82,
+      "pts": 82,
       "rank_of_player": 3,
       "group_total": 8424
     },
     {
       "f_name": "OJ",
       "name": "O.J. Mayo",
-      "sum": 7837,
+      "pts": 7837,
       "rank_of_player": 1,
       "group_total": 7837
     },
     {
       "f_name": "AJ",
       "name": "A.J. Price",
-      "sum": 1567,
+      "pts": 1567,
       "rank_of_player": 1,
       "group_total": 5394
     },
     {
       "f_name": "AJ",
       "name": "A.J. English",
-      "sum": 1502,
+      "pts": 1502,
       "rank_of_player": 2,
       "group_total": 5394
     },
     {
       "f_name": "AJ",
       "name": "A.J. Green",
-      "sum": 858,
+      "pts": 858,
       "rank_of_player": 3,
       "group_total": 5394
     },
     {
       "f_name": "AJ",
       "name": "AJ Griffin",
-      "sum": 687,
+      "pts": 687,
       "rank_of_player": 4,
       "group_total": 5394
     },
     {
       "f_name": "AJ",
       "name": "A.J. Guyton",
-      "sum": 442,
+      "pts": 442,
       "rank_of_player": 5,
       "group_total": 5394
     },
     {
       "f_name": "AJ",
       "name": "A.J. Lawson",
-      "sum": 240,
+      "pts": 240,
       "rank_of_player": 6,
       "group_total": 5394
     },
     {
       "f_name": "AJ",
       "name": "A.J. Hammons",
-      "sum": 48,
+      "pts": 48,
       "rank_of_player": 7,
       "group_total": 5394
     },
     {
       "f_name": "AJ",
       "name": "AJ Johnson",
-      "sum": 30,
+      "pts": 30,
       "rank_of_player": 8,
       "group_total": 5394
     },
     {
       "f_name": "AJ",
       "name": "A.J. Wynder",
-      "sum": 12,
+      "pts": 12,
       "rank_of_player": 9,
       "group_total": 5394
     },
     {
       "f_name": "AJ",
       "name": "A.J. Bramlett",
-      "sum": 8,
+      "pts": 8,
       "rank_of_player": 10,
       "group_total": 5394
     },
     {
       "f_name": "KJ",
       "name": "KJ Martin",
-      "sum": 2601,
+      "pts": 2601,
       "rank_of_player": 1,
       "group_total": 3556
     },
     {
       "f_name": "KJ",
       "name": "K.J. McDaniels",
-      "sum": 791,
+      "pts": 791,
       "rank_of_player": 2,
       "group_total": 3556
     },
     {
       "f_name": "KJ",
       "name": "KJ Simpson",
-      "sum": 164,
+      "pts": 164,
       "rank_of_player": 3,
       "group_total": 3556
     },
     {
       "f_name": "EJ",
       "name": "E.J. Liddell",
-      "sum": 19,
+      "pts": 19,
       "rank_of_player": 1,
       "group_total": 19
     },
     {
       "f_name": "MJ",
       "name": "M.J. Walker",
-      "sum": 0,
+      "pts": 0,
       "rank_of_player": 1,
       "group_total": 0
     }
