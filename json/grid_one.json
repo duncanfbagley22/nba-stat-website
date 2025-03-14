@@ -1,7 +1,7 @@
 {
   "teams": [
     {
-      "TEAM_ID": "ATL",
+      "team_id": "ATL",
       "ATL": 9,
       "BKN": 1,
       "BOS": 1,
@@ -34,7 +34,7 @@
       "WAS": 0
     },
     {
-      "TEAM_ID": "BKN",
+      "team_id": "BKN",
       "ATL": 1,
       "BKN": 9,
       "BOS": 1,
@@ -67,7 +67,7 @@
       "WAS": 1
     },
     {
-      "TEAM_ID": "BOS",
+      "team_id": "BOS",
       "ATL": 1,
       "BKN": 1,
       "BOS": 9,
@@ -100,7 +100,7 @@
       "WAS": 1
     },
     {
-      "TEAM_ID": "CHA",
+      "team_id": "CHA",
       "ATL": 1,
       "BKN": 1,
       "BOS": 1,
@@ -133,7 +133,7 @@
       "WAS": 1
     },
     {
-      "TEAM_ID": "CHI",
+      "team_id": "CHI",
       "ATL": 1,
       "BKN": 1,
       "BOS": 1,
@@ -166,7 +166,7 @@
       "WAS": 1
     },
     {
-      "TEAM_ID": "CLE",
+      "team_id": "CLE",
       "ATL": 1,
       "BKN": 1,
       "BOS": 1,
@@ -199,7 +199,7 @@
       "WAS": 0
     },
     {
-      "TEAM_ID": "DAL",
+      "team_id": "DAL",
       "ATL": 0,
       "BKN": 0,
       "BOS": 1,
@@ -232,7 +232,7 @@
       "WAS": 0
     },
     {
-      "TEAM_ID": "DEN",
+      "team_id": "DEN",
       "ATL": 0,
       "BKN": 0,
       "BOS": 1,
@@ -265,7 +265,7 @@
       "WAS": 0
     },
     {
-      "TEAM_ID": "DET",
+      "team_id": "DET",
       "ATL": 1,
       "BKN": 1,
       "BOS": 1,
@@ -298,7 +298,7 @@
       "WAS": 1
     },
     {
-      "TEAM_ID": "GSW",
+      "team_id": "GSW",
       "ATL": 1,
       "BKN": 1,
       "BOS": 1,
@@ -331,7 +331,7 @@
       "WAS": 1
     },
     {
-      "TEAM_ID": "HOU",
+      "team_id": "HOU",
       "ATL": 1,
       "BKN": 1,
       "BOS": 0,
@@ -364,7 +364,7 @@
       "WAS": 0
     },
     {
-      "TEAM_ID": "IND",
+      "team_id": "IND",
       "ATL": 0,
       "BKN": 1,
       "BOS": 0,
@@ -397,7 +397,7 @@
       "WAS": 1
     },
     {
-      "TEAM_ID": "LAC",
+      "team_id": "LAC",
       "ATL": 0,
       "BKN": 1,
       "BOS": 1,
@@ -430,7 +430,7 @@
       "WAS": 1
     },
     {
-      "TEAM_ID": "LAL",
+      "team_id": "LAL",
       "ATL": 0,
       "BKN": 1,
       "BOS": 0,
@@ -463,7 +463,7 @@
       "WAS": 0
     },
     {
-      "TEAM_ID": "MEM",
+      "team_id": "MEM",
       "ATL": 1,
       "BKN": 1,
       "BOS": 1,
@@ -496,7 +496,7 @@
       "WAS": 0
     },
     {
-      "TEAM_ID": "MIA",
+      "team_id": "MIA",
       "ATL": 1,
       "BKN": 1,
       "BOS": 1,
@@ -529,7 +529,7 @@
       "WAS": 0
     },
     {
-      "TEAM_ID": "MIL",
+      "team_id": "MIL",
       "ATL": 1,
       "BKN": 1,
       "BOS": 1,
@@ -562,7 +562,7 @@
       "WAS": 1
     },
     {
-      "TEAM_ID": "MIN",
+      "team_id": "MIN",
       "ATL": 0,
       "BKN": 0,
       "BOS": 1,
@@ -595,7 +595,7 @@
       "WAS": 1
     },
     {
-      "TEAM_ID": "NOP",
+      "team_id": "NOP",
       "ATL": 0,
       "BKN": 1,
       "BOS": 0,
@@ -628,7 +628,7 @@
       "WAS": 0
     },
     {
-      "TEAM_ID": "NYK",
+      "team_id": "NYK",
       "ATL": 1,
       "BKN": 0,
       "BOS": 1,
@@ -661,7 +661,7 @@
       "WAS": 1
     },
     {
-      "TEAM_ID": "OKC",
+      "team_id": "OKC",
       "ATL": 1,
       "BKN": 1,
       "BOS": 1,
@@ -694,7 +694,7 @@
       "WAS": 1
     },
     {
-      "TEAM_ID": "ORL",
+      "team_id": "ORL",
       "ATL": 0,
       "BKN": 1,
       "BOS": 1,
@@ -727,7 +727,7 @@
       "WAS": 1
     },
     {
-      "TEAM_ID": "PHI",
+      "team_id": "PHI",
       "ATL": 1,
       "BKN": 0,
       "BOS": 1,
@@ -760,7 +760,7 @@
       "WAS": 1
     },
     {
-      "TEAM_ID": "PHO",
+      "team_id": "PHO",
       "ATL": 1,
       "BKN": 1,
       "BOS": 0,
@@ -793,7 +793,7 @@
       "WAS": 1
     },
     {
-      "TEAM_ID": "POR",
+      "team_id": "POR",
       "ATL": 1,
       "BKN": 1,
       "BOS": 1,
@@ -826,7 +826,7 @@
       "WAS": 1
     },
     {
-      "TEAM_ID": "SAC",
+      "team_id": "SAC",
       "ATL": 0,
       "BKN": 0,
       "BOS": 0,
@@ -859,7 +859,7 @@
       "WAS": 0
     },
     {
-      "TEAM_ID": "SAS",
+      "team_id": "SAS",
       "ATL": 1,
       "BKN": 0,
       "BOS": 0,
@@ -892,7 +892,7 @@
       "WAS": 1
     },
     {
-      "TEAM_ID": "TOR",
+      "team_id": "TOR",
       "ATL": 1,
       "BKN": 1,
       "BOS": 1,
@@ -925,7 +925,7 @@
       "WAS": 1
     },
     {
-      "TEAM_ID": "UTA",
+      "team_id": "UTA",
       "ATL": 1,
       "BKN": 0,
       "BOS": 0,
@@ -958,7 +958,7 @@
       "WAS": 1
     },
     {
-      "TEAM_ID": "WAS",
+      "team_id": "WAS",
       "ATL": 0,
       "BKN": 1,
       "BOS": 1,
