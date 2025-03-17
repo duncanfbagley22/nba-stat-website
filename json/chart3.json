@@ -124,8 +124,8 @@
       "team_id": "BKN",
       "phase_text": "Waning Gibbous",
       "total_wins": 364,
-      "total_losses": 486,
-      "total_games": 850,
+      "total_losses": 487,
+      "total_games": 851,
       "winning_percentage": 0.428,
       "phase": "\ud83c\udf16"
     },
@@ -195,10 +195,10 @@
     {
       "team_id": "BOS",
       "phase_text": "Waning Gibbous",
-      "total_wins": 560,
+      "total_wins": 561,
       "total_losses": 417,
-      "total_games": 977,
-      "winning_percentage": 0.573,
+      "total_games": 978,
+      "winning_percentage": 0.574,
       "phase": "\ud83c\udf16"
     },
     {
@@ -340,8 +340,8 @@
       "team_id": "CHI",
       "phase_text": "Waning Gibbous",
       "total_wins": 470,
-      "total_losses": 446,
-      "total_games": 916,
+      "total_losses": 447,
+      "total_games": 917,
       "winning_percentage": 0.513,
       "phase": "\ud83c\udf16"
     },
@@ -556,8 +556,8 @@
       "team_id": "DEN",
       "phase_text": "Waning Gibbous",
       "total_wins": 441,
-      "total_losses": 437,
-      "total_games": 878,
+      "total_losses": 438,
+      "total_games": 879,
       "winning_percentage": 0.502,
       "phase": "\ud83c\udf16"
     },
@@ -628,8 +628,8 @@
       "team_id": "DET",
       "phase_text": "Waning Gibbous",
       "total_wins": 447,
-      "total_losses": 472,
-      "total_games": 919,
+      "total_losses": 473,
+      "total_games": 920,
       "winning_percentage": 0.486,
       "phase": "\ud83c\udf16"
     },
@@ -699,10 +699,10 @@
     {
       "team_id": "GSW",
       "phase_text": "Waning Gibbous",
-      "total_wins": 455,
+      "total_wins": 456,
       "total_losses": 460,
-      "total_games": 915,
-      "winning_percentage": 0.497,
+      "total_games": 916,
+      "winning_percentage": 0.498,
       "phase": "\ud83c\udf16"
     },
     {
@@ -771,9 +771,9 @@
     {
       "team_id": "HOU",
       "phase_text": "Waning Gibbous",
-      "total_wins": 501,
+      "total_wins": 502,
       "total_losses": 439,
-      "total_games": 940,
+      "total_games": 941,
       "winning_percentage": 0.533,
       "phase": "\ud83c\udf16"
     },
@@ -844,9 +844,9 @@
       "team_id": "IND",
       "phase_text": "Waning Gibbous",
       "total_wins": 450,
-      "total_losses": 443,
-      "total_games": 893,
-      "winning_percentage": 0.504,
+      "total_losses": 444,
+      "total_games": 894,
+      "winning_percentage": 0.503,
       "phase": "\ud83c\udf16"
     },
     {
@@ -1059,10 +1059,10 @@
     {
       "team_id": "MEM",
       "phase_text": "Waning Gibbous",
-      "total_wins": 216,
+      "total_wins": 217,
       "total_losses": 299,
-      "total_games": 515,
-      "winning_percentage": 0.419,
+      "total_games": 516,
+      "winning_percentage": 0.421,
       "phase": "\ud83c\udf16"
     },
     {
@@ -1132,9 +1132,9 @@
       "team_id": "MIA",
       "phase_text": "Waning Gibbous",
       "total_wins": 368,
-      "total_losses": 305,
-      "total_games": 673,
-      "winning_percentage": 0.547,
+      "total_losses": 306,
+      "total_games": 674,
+      "winning_percentage": 0.546,
       "phase": "\ud83c\udf16"
     },
     {
@@ -1203,9 +1203,9 @@
     {
       "team_id": "MIL",
       "phase_text": "Waning Gibbous",
-      "total_wins": 475,
+      "total_wins": 476,
       "total_losses": 446,
-      "total_games": 921,
+      "total_games": 922,
       "winning_percentage": 0.516,
       "phase": "\ud83c\udf16"
     },
@@ -1348,9 +1348,9 @@
       "team_id": "NOP",
       "phase_text": "Waning Gibbous",
       "total_wins": 187,
-      "total_losses": 209,
-      "total_games": 396,
-      "winning_percentage": 0.472,
+      "total_losses": 210,
+      "total_games": 397,
+      "winning_percentage": 0.471,
       "phase": "\ud83c\udf16"
     },
     {
@@ -1420,8 +1420,8 @@
       "team_id": "NYK",
       "phase_text": "Waning Gibbous",
       "total_wins": 417,
-      "total_losses": 483,
-      "total_games": 900,
+      "total_losses": 484,
+      "total_games": 901,
       "winning_percentage": 0.463,
       "phase": "\ud83c\udf16"
     },
@@ -1491,9 +1491,9 @@
     {
       "team_id": "OKC",
       "phase_text": "Waning Gibbous",
-      "total_wins": 507,
+      "total_wins": 508,
       "total_losses": 441,
-      "total_games": 948,
+      "total_games": 949,
       "winning_percentage": 0.535,
       "phase": "\ud83c\udf16"
     },
@@ -1923,9 +1923,9 @@
     {
       "team_id": "SAS",
       "phase_text": "Waning Gibbous",
-      "total_wins": 540,
+      "total_wins": 541,
       "total_losses": 377,
-      "total_games": 917,
+      "total_games": 918,
       "winning_percentage": 0.589,
       "phase": "\ud83c\udf16"
     },
@@ -2139,10 +2139,10 @@
     {
       "team_id": "WAS",
       "phase_text": "Waning Gibbous",
-      "total_wins": 400,
+      "total_wins": 401,
       "total_losses": 489,
-      "total_games": 889,
-      "winning_percentage": 0.45,
+      "total_games": 890,
+      "winning_percentage": 0.451,
       "phase": "\ud83c\udf16"
     },
     {
