@@ -1,16 +1,29 @@
+@font-face {
+  font-family: 'Bungee';
+  src: url('../assets/Bungee-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 /* Add some space between the navbar and the top */
 .navbar {
-    position: sticky; /* Sticks near the top when scrolling */
-    background-color: #2C3E50; /* White background */
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
-    padding: 0.5rem 2rem; /* Add some padding for spacing */
-    border-radius: 12px; /* Rounded corners for a modern look */
-    margin: 0 auto;
-    width: 75%;
-    max-width: 1200px; /* Center navbar and keep it from stretching too wide */
-    z-index: 1000; /* Ensure it appears above other elements */
-    color: #fff;
-  }
+  position: sticky;
+  top: 0; /* Ensures it sticks at the top */
+  background-color: #17408B; /* NBA navy blue */
+  color: #F4EBD0; /* Off-white for a vintage look */
+  box-shadow: 5px 3px 0px 0px #C9082A; /* Retro red shadow */
+  padding: 0.5rem 2rem;
+  border-radius: 12px;
+  margin: 0 auto;
+  width: 75%;
+  max-width: 1200px;
+  z-index: 1000;
+  font-family: "Courier New", Courier, monospace; /* Vintage sports typeface */
+  text-transform: uppercase; /* Old-school scoreboard look */
+  letter-spacing: 1px; /* Slight spacing for a newspaper feel */
+  font-family: 'Bungee';
+  border: 2px solid black;
+}
   
   /* Flex container for navbar links */
   .navbar-container {
@@ -22,17 +35,18 @@
   /* Style for the links */
   .navbar-link {
     text-decoration: none; /* Remove underline */
-    color: #fff; /* Dark text color */
+    color: #F4EBD0;
     font-size: 1rem; /* Slightly larger font size */
-    font-weight: 500;
+    font-weight: bold;
     padding: 0.5rem 1rem;
     transition: all 0.3s ease; /* Smooth hover effect */
+    cursor: pointer;
   }
   
   /* Hover effects for links */
   .navbar-link:hover {
-    color: #007bff; /* Change color on hover (e.g., blue) */
     background-color: rgba(0, 123, 255, 0.1); /* Add a light blue background */
     border-radius: 8px;
+    color: #C9082A; /* Red on hover for vintage pop */
   }
   

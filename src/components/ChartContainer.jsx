@@ -50,7 +50,7 @@ const ChartContainer = ({ title, chartType, data }) => {
                 <ResponsiveContainer width="100%" height={300}>
                     <BarChart data={sortedGroupedData} margin={{top: marginTop, right: marginRight, left: marginLeft, bottom: marginBottom}}>
                         <XAxis dataKey="f_name" >
-                            <Label value="Name" offset={-20} position="insideBottom" />
+                            <Label value="Name" offset={-20} position="insideBottom" style={{ fontFamily: 'Roboto', fontSize: '14px', fontWeight: 'normal', color: '#2C2C2C' }}/>
                         </XAxis>
                         <YAxis 
                         domain={[0, Math.max(...sortedGroupedData.map(d => d.group_total))]} 
@@ -63,9 +63,27 @@ const ChartContainer = ({ title, chartType, data }) => {
                                 }
                                 return tick;
                             }}>
-                            <Label value="Career Points" offset={70} position="insideTopRight" angle={-90}/>
+                            <Label value="Career Points" offset={70} position="insideTopRight" angle={-90} style={{ fontFamily: 'Roboto', fontSize: '14px', fontWeight: 'normal', color: '#2C2C2C' }}/>
                         </YAxis>
-                        <Tooltip />
+                        <Tooltip 
+                            contentStyle={{
+                                backgroundColor: '#faf6e9', // Retro off-white background
+                                border: '3px solid black',
+                                borderRadius: '8px',
+                                boxShadow: '5px 5px 0px black',
+                                padding: '10px',
+                                fontFamily: 'Roboto'
+                            }} 
+                            itemStyle={{
+                                fontFamily: 'Roboto', // Font family for the text inside the tooltip
+                                fontSize: '14px',
+                                fontWeight: 'normal',
+                                backgroundColor: '#faf6e9', // Match the tooltip background
+                                borderRadius: '8px',
+                                padding: '5px',
+                                margin: '5px 0',
+                            }}
+                            />
                         {data.map((entry) => (
                             <Bar key={entry.name} dataKey={entry.name} stackId="a" fill={getColorByRank(entry.rank)} />
                         ))}
@@ -82,7 +100,7 @@ const ChartContainer = ({ title, chartType, data }) => {
                 <ResponsiveContainer width="100%" height={300}>
                     <LineChart data={data} margin={{top: marginTop, right: marginRight, left: marginLeft, bottom: marginBottom}}>
                         <XAxis dataKey="year" >
-                            <Label value="Year" offset={-40} position="insideBottom" />
+                            <Label value="Year" offset={-40} position="insideBottom" style={{ fontFamily: 'Roboto', fontSize: '14px', fontWeight: 'normal', color: '#2C2C2C' }}/>
                         </XAxis>
                         <YAxis 
                             tickFormatter={(tick) => {
@@ -94,9 +112,26 @@ const ChartContainer = ({ title, chartType, data }) => {
                                 }
                                 return tick;
                             }}>
-                            <Label value="Total Points" offset={80} position="insideTopRight" angle={-90}/>
+                            <Label value="Total Points" offset={80} position="insideTopRight" angle={-90} style={{ fontFamily: 'Roboto', fontSize: '14px', fontWeight: 'normal', color: '#2C2C2C' }}/>
                         </YAxis>
-                        <Tooltip labelFormatter={(label) => label} />
+                        <Tooltip labelFormatter={(label) => label}                             
+                        contentStyle={{
+                                backgroundColor: '#faf6e9', // Retro off-white background
+                                border: '3px solid black',
+                                borderRadius: '8px',
+                                boxShadow: '5px 5px 0px black',
+                                padding: '10px',
+                                fontFamily: 'Roboto'
+                            }} 
+                            itemStyle={{
+                                fontFamily: 'Roboto', // Font family for the text inside the tooltip
+                                fontSize: '14px',
+                                fontWeight: 'normal',
+                                backgroundColor: '#faf6e9', // Match the tooltip background
+                                borderRadius: '8px',
+                                padding: '5px',
+                                margin: '5px 0',
+                            }}/>
                         <Legend />
                         
                         {['ohio', 'michigan', 'pennsylvania'].map((state, index) => (
@@ -147,10 +182,10 @@ const ChartContainer = ({ title, chartType, data }) => {
                 <ResponsiveContainer width="100%"height={300}>
                     <AreaChart data={filteredData} margin={{top: marginTop, right: marginRight, left: marginLeft, bottom: marginBottom}}>
                         <XAxis dataKey="phase" interval={0} angle={-45} textAnchor="end">
-                            <Label value="Phase of the Moon" offset={-20} position="insideBottom" />
+                            <Label value="Phase of the Moon" offset={-20} position="insideBottom" style={{ fontFamily: 'Roboto', fontSize: '14px', fontWeight: 'normal', color: '#2C2C2C' }}/>
                         </XAxis>
                         <YAxis domain={[roundedDataMin, roundedDataMax]} ticks={ticks}
-                            label={{ value: 'Winning Percentage', offset: 50, angle: -90, position: 'insideTopRight' }}>
+                            label={{ value: 'Winning Percentage', offset: 50, angle: -90, position: 'insideTopRight' }} style={{ fontFamily: 'Roboto', fontSize: '14px', fontWeight: 'normal', color: '#2C2C2C' }}>
                         </YAxis>
                         <Tooltip formatter={(value, name) => {
                             if (name === 'winning_percentage') {
@@ -158,7 +193,24 @@ const ChartContainer = ({ title, chartType, data }) => {
                             }
                             return [value, name];
                         }}
-                            itemStyle={{ color: '#000' }} />
+                            
+                            contentStyle={{
+                                backgroundColor: '#faf6e9', // Retro off-white background
+                                border: '3px solid black',
+                                borderRadius: '8px',
+                                boxShadow: '5px 5px 0px black',
+                                padding: '10px',
+                            }} 
+                            itemStyle={{
+                                fontFamily: 'Roboto', // Font family for the text inside the tooltip
+                                fontSize: '14px',
+                                fontWeight: 'normal',
+                                backgroundColor: '#faf6e9', // Match the tooltip background
+                                borderRadius: '8px',
+                                padding: '5px',
+                                margin: '5px 0',
+                                color: '#2C2C2C'
+                            }}/>
                         <defs>
                             <linearGradient id="splitColor" x1="0" y1="0" x2="0" y2="1">
                                 <stop offset={off} stopColor="green" stopOpacity={1} />
@@ -179,8 +231,30 @@ const ChartContainer = ({ title, chartType, data }) => {
         const CustomTooltip = ({ active, payload }) => {
             if (active && payload && payload.length > 0) {
               return (
-                <div className="custom-tooltip" style={{ background: "#fff", padding: "5px", border: "1px solid #ccc" }}>
-                  <p style={{ color: "black", fontWeight: "bold" }}>{`${payload[0].value} games`}</p>
+                <div
+                  className="custom-tooltip"
+                  style={{
+                    backgroundColor: "#faf6e9", // Retro off-white background
+                    padding: "10px", // Adjust padding for the tooltip
+                    border: "3px solid black", // Black border to match the design
+                    borderRadius: "8px", // Rounded corners for the tooltip
+                    boxShadow: "5px 5px 0px black", // Shadow to give it a retro look
+                  }}
+                >
+                  <p
+                    style={{
+                      color: "#2C2C2C", // Dark font color for the text
+                      fontFamily: "'Roboto', sans-serif", // Use the 'Roboto' font
+                      fontSize: "14px", // Font size for the text
+                      fontWeight: "normal", // Normal weight for the text
+                      backgroundColor: "#faf6e9", // Match the tooltip background
+                      borderRadius: "8px", // Rounded corners for the text container
+                      padding: "5px", // Padding around the text
+                      margin: "5px 0", // Margin for spacing between text items
+                    }}
+                  >
+                    {`${payload[0].value} games`}
+                  </p>
                 </div>
               );
             }
@@ -192,10 +266,10 @@ const ChartContainer = ({ title, chartType, data }) => {
                 <ResponsiveContainer width="100%" height={300}>
                     <BarChart data={data} margin={{ top: marginTop, right: marginRight, left: marginLeft, bottom: marginBottom }}>
                     <XAxis dataKey="name" axisLine={true} tick={false} >
-                    <Label value="Name" offset={-10} position="insideBottom" />
+                    <Label value="Name" offset={-10} position="insideBottom" style={{ fontFamily: 'Roboto', fontSize: '14px', fontWeight: 'normal', color: '#2C2C2C' }}/>
                         </XAxis>
                         <YAxis>
-                            <Label value="Total Games" offset={70} angle={-90} position="insideTopRight" />
+                            <Label value="Total Games" offset={70} angle={-90} position="insideTopRight" style={{ fontFamily: 'Roboto', fontSize: '14px', fontWeight: 'normal', color: '#2C2C2C' }}/>
                         </YAxis>
                         <Tooltip content={<CustomTooltip />} />
                         <Bar 
@@ -218,6 +292,7 @@ const ChartContainer = ({ title, chartType, data }) => {
                                             x={x + width / 2} 
                                             y={y + height / 2} 
                                             textAnchor="middle" 
+                                            fontFamily= "Roboto"
                                             dominantBaseline="middle"
                                             fill="black" 
                                             fontSize={12}

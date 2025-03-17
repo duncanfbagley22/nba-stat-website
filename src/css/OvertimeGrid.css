@@ -5,53 +5,61 @@
 }
 
 .overtime-wrapper {
-  background: white;
-  border-radius: 10px;
-  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  background: #faf6e9; /* Retro off-white background */
+  border-radius: 12px;
+  border: 6px solid black;
+  box-shadow: 5px 5px 0px black;
   padding: 20px;
   text-align: center;
   overflow-x: auto; /* Allow horizontal scrolling */
+  transition: transform 0.2s ease-in-out;
 }
 
 .overtime-title {
-  font-size: 16px;
+  font-size: 18px;
   margin-bottom: 15px;
-  color: black;
+  color: #2C2C2C;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: bold;
+  text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3);
 }
 
-/* Grid Layout */
 .grid-container {
   display: grid;
   grid-template-columns: repeat(31, 30px); /* 30 teams + 1 for left header */
   grid-template-rows: auto repeat(30, 30px); /* 30 rows for each team */
   gap: 2px;
-  border: 2px solid #ddd;
-  background: #f8f8f8; /* Set background for the entire grid */
   padding: 10px;
 }
 
-/* Headers */
 .grid-header {
-  display: contents; /* Keep headers inside the grid */
+  display: contents;
 }
 
 .grid-header-cell {
   font-weight: bold;
   text-align: center;
   background: #8f8f8f;
-  padding: 5px;
-  border: 1px solid #ccc;
-  font-size: 8px;
+  padding: 0px;
+  font-size: 10px;
+  color: #2C2C2C;
+  text-transform: uppercase;
+  font-family: 'Bungee', sans-serif;
+  letter-spacing: 1px;
+  height: 30px;
+  border-radius: 3px;
   
+  display: flex;
+  align-items: center; /* Vertically centers the text */
+  justify-content: center; /* Ensures the text is horizontally centered */
 }
 
 .grid-corner {
-  background: white;
   border-right: 1px solid #ccc;
   border-bottom: 1px solid #ccc;
 }
 
-/* Grid Rows */
 .grid-row {
   display: contents;
 }
@@ -59,5 +67,8 @@
 .grid-cell {
   width: 30px;
   height: 30px;
-  border: 1px solid #ddd;
+  background: #f5f5f5; /* Subtle background for grid cells */
+  border-radius: 3px;
 }
+
+

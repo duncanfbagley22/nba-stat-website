@@ -13,31 +13,35 @@ const About = () => {
 
       <section className="about-content">
         <div className="about-section">
-          <h2>📖 The Idea Behind the Project</h2>
+          <h2>The Idea Behind the Project</h2>
           <p>
-            The NBA is more than just a game—it’s a constantly evolving story filled with firsts, 
-            record-breaking moments, and fascinating statistics. This project was born out of a 
-            passion for basketball and data analytics, aiming to highlight key milestones, trends, 
-            and interesting stats in an engaging way.
+            I love basketball and I love numbers. 
+            From a young age I'd be reading boxscores in the newspaper or trying to analyze things. 
+            At the same time, analytics have taken the sports world by storm. 
+            As I've seen this pivot to an analytical approach, I've noticed that sometimes it goes a bit too far.
+            I decided to create this project to show that while numbers are tracked, they don't always show anything useful.
+            Data is kept locally, and then results are pushed to this page.
+            Check back daily for updates.
           </p>
         </div>
 
         <div className="about-section">
-          <h2>🛠️ Technologies Used</h2>
+          <h2>Technologies Used</h2>
           <ul className="tech-list">
-            <li><strong>React.js</strong> – For building a dynamic and interactive UI</li>
-            <li><strong>CSS</strong> – To style components and ensure a clean look</li>
-            <li><strong>JSON</strong> – For storing and managing statistical data</li>
-            <li><strong>APIs</strong> – To fetch live NBA data (planned feature!)</li>
+          <li className="about-list-item"><strong>React.js</strong> – For creating reusable components and managing state to build the user interface</li>
+          <li className="about-list-item"><strong>HTML/CSS</strong> – To structure and style content, creating a visually appealing and responsive design</li>
+          <li className="about-list-item"><strong>Python</strong> – For performing backend logic, processing data, and interacting with local and external databases</li>
+          <li className="about-list-item"><strong>SQL</strong> – For querying and managing relational databases to store and retrieve structured data</li>
           </ul>
         </div>
 
         <div className="about-section">
-          <h2>🚀 What’s Next?</h2>
+          <h2>What’s Next?</h2>
           <p>
-            The goal is to continuously improve and expand this project by incorporating real-time 
-            stats, predictive analytics, and deeper insights into player performances. Stay tuned 
-            for upcoming features!
+            To be honest, I'm not sure. 
+            The goal was to create something that could be updated through a script automatically. 
+            I may try to have a CRON job run so I don't have to do anything. 
+            In theory, I could also move all the data to the cloud to allow for a lot more interactivity, but that could be most costly. We'll see what's next...
           </p>
         </div>
       </section>

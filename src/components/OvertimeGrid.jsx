@@ -1,12 +1,14 @@
 import React, { useState, useEffect } from "react";
-import data from "../other/overtimeGridData.json";
 import "../css/OvertimeGrid.css";
 
-const overtimeGrid = () => {
+const OvertimeGrid = () => {
   const [teams, setTeams] = useState([]);
 
   useEffect(() => {
-    setTeams(data.teams);
+    fetch("https://raw.githubusercontent.com/duncanfbagley22/nba-stat-website/main/json/grid_one.json")
+      .then(response => response.json())
+      .then(data => setTeams(data.teams))
+      .catch(error => console.error("Error fetching data:", error));
   }, []);
 
   const teamIds = teams.map(team => team.team_id);
@@ -25,7 +27,7 @@ const overtimeGrid = () => {
           </div>
 
           {/* Grid Rows */}
-          {teams.map((team, rowIndex) => (
+          {teams.map((team) => (
             <div key={team.team_id} className="grid-row">
               {/* Left Side Header */}
               <div className="grid-header-cell">{team.team_id}</div>
@@ -36,7 +38,7 @@ const overtimeGrid = () => {
                     key={col}
                     className="grid-cell"
                     style={{
-                      backgroundColor: value === 9 ? "black" : value === 1 ? "green" : "white",
+                      backgroundColor: value === 9 ? "#000" : value === 1 ? "green" : "#faf6e9", // Updated colors
                     }}
                   ></div>
                 );
@@ -49,4 +51,4 @@ const overtimeGrid = () => {
   );
 };
 
-export default overtimeGrid;
+export default OvertimeGrid;
