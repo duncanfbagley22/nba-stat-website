@@ -21,6 +21,9 @@ const NBAFirsts = () => {
   }, []); // Empty dependency array ensures this runs once when the component mounts
 
   return (
+    <div>
+    <h1>NBA Firsts</h1>
+    <p>Every so often, a player in the NBA will have a remarkable performance, some accumulation of stats that's never been seen. Actually, every night, with enough stats involved, there is a unique performance. Below are combinations that recently happened for the first time</p>
     <div className="card-container">
       {players.map(player => (
         <PlayerCard
@@ -34,6 +37,7 @@ const NBAFirsts = () => {
           stats={JSON.stringify(player.stats)} // Ensure stats are in string format for JSON.parse
         />
       ))}
+    </div>
     </div>
   );
 };
