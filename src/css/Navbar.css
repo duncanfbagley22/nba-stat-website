@@ -1,38 +1,136 @@
-/* Add some space between the navbar and the top */
+@font-face {
+  font-family: 'Bungee';
+  src: url('../assets/Bungee-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 .navbar {
-    position: sticky; /* Sticks near the top when scrolling */
-    background-color: #2C3E50; /* White background */
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
-    padding: 0.5rem 2rem; /* Add some padding for spacing */
-    border-radius: 12px; /* Rounded corners for a modern look */
-    margin: 0 auto;
-    width: 75%;
-    max-width: 1200px; /* Center navbar and keep it from stretching too wide */
-    z-index: 1000; /* Ensure it appears above other elements */
-    color: #fff;
-  }
-  
-  /* Flex container for navbar links */
-  .navbar-container {
-    display: flex;
-    justify-content: space-between; /* Spread links evenly */
-    align-items: center;
-  }
-  
-  /* Style for the links */
-  .navbar-link {
-    text-decoration: none; /* Remove underline */
-    color: #fff; /* Dark text color */
-    font-size: 1rem; /* Slightly larger font size */
-    font-weight: 500;
+  position: sticky;
+  top: 0;
+  background-color: #17408B;
+  color: #F4EBD0;
+  box-shadow: 5px 3px 0px 0px #C9082A;
+  padding: 0.5rem 2rem;
+  border-radius: 12px;
+  margin: 0 auto;
+  width: 75%;
+  max-width: 1200px;
+  z-index: 1000;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-family: 'Bungee';
+  border: 2px solid black;
+}
+
+.navbar-container {
+  display: flex;
+  justify-content: center;
+}
+
+/* Default menu (desktop) */
+.nav-links {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 100%;
+  transform: translateX(-1%);
+}
+
+.navbar-link {
+  text-decoration: none;
+  color: #F4EBD0;
+  font-size: 1rem;
+  font-weight: bold;
+  padding: 0.5rem 1rem;
+  transition: all 0.3s ease;
+  cursor: pointer;
+  text-wrap: nowrap;
+}
+
+.navbar-link:hover {
+  background-color: rgba(0, 123, 255, 0.1);
+  border-radius: 8px;
+  color: #C9082A;
+}
+
+.menu-button {
+  display: none;
+  background: none;
+  border: none;
+  color: #F4EBD0;
+  font-size: 1.4rem;
+  cursor: pointer;
+}
+
+.menu-button .indicator {
+  transform: rotate(0deg);
+  margin-left: 6px;
+  transition: transform 0.3s ease;
+}
+
+.menu-button .indicator.rotate{
+  transform: rotate(180deg);
+}
+
+
+
+/* Mobile Styles */
+@media (max-width: 850px) {
+  .navbar {
     padding: 0.5rem 1rem;
-    transition: all 0.3s ease; /* Smooth hover effect */
+  }
+
+  .navbar-container {
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    text-wrap: nowrap;
+  }
+
+  /* Show hamburger menu */
+  .menu-button {
+    display: block;
+  }
+
+  /* Hide menu by default */
+  .nav-links {
+    display: flex; /* Keep flex layout for proper alignment */
+    flex-direction: column;
+    position: absolute;
+    top: 60px;
+    left: 1px;
+    width: 100%;
+    background-color: #17408B;
+    text-align: center;
+    height: 0; /* Start with no height */
+    overflow: hidden; /* Hide content when height is 0 */
+    transition: height 0.3s ease-in-out; /* Smooth height transition */
+    z-index: 999;
+    border: 2px solid black;
+    border-top: none;
+    border-bottom: none;
+    pointer-events: none; /* Prevent interaction when hidden */
   }
   
-  /* Hover effects for links */
-  .navbar-link:hover {
-    color: #007bff; /* Change color on hover (e.g., blue) */
-    background-color: rgba(0, 123, 255, 0.1); /* Add a light blue background */
-    border-radius: 8px;
+  /* Show menu when open */
+  .nav-links.open {
+    height: 380%; /* Adjust this value based on the content height */
+    pointer-events: auto; /* Allow interaction when visible */
+    border-radius: 0 0 12px 12px;
+    border-bottom: 2px solid black;
+    box-shadow: 5px 3px 0px 0px #C9082A;
   }
-  
+
+  .navbar-link {
+    font-size: 1.4rem;
+    padding: 1rem;
+    width: 100%;
+  }
+}
+
+@media (max-width: 450px) {
+  .menu-button {
+    font-size: 1.2rem;
+  }
+}

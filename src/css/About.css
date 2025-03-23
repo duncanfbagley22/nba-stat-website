@@ -1,63 +1,83 @@
 .about-container {
-    max-width: 800px;
-    margin: auto;
-    padding: 40px 20px;
-    text-align: center;
-    color: #333;
-  }
-  
-  .about-header {
-    margin-bottom: 30px;
-  }
-  
-  .about-header h1 {
-    font-size: 2.5rem;
-    color: #1e3a8a; /* Deep blue for a sporty look */
-  }
-  
-  .about-subtitle {
-    font-size: 1.2rem;
-    color: #555;
-    font-style: italic;
-  }
-  
-  .about-content {
-    text-align: left;
-  }
-  
-  .about-section {
-    margin-bottom: 30px;
-  }
-  
-  .about-section h2 {
-    font-size: 1.8rem;
-    color: #2563eb;
-    border-bottom: 3px solid #60a5fa;
-    padding-bottom: 5px;
-    margin-bottom: 15px;
-  }
-  
-  .about-section p {
-    font-size: 1rem;
-    line-height: 1.6;
-  }
-  
-  .tech-list {
-    list-style: none;
-    padding: 0;
-  }
-  
-  .tech-list li {
-    font-size: 1rem;
-    background: #f3f4f6;
-    padding: 10px;
-    margin: 5px 0;
-    border-radius: 8px;
-  }
-  
-  .about-footer {
-    margin-top: 40px;
-    font-size: 1rem;
-    color: #777;
-  }
-  
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 40px 20px;
+  text-align: center;
+  color: #333;
+  font-family: 'Bungee', sans-serif;
+}
+
+.about-header {
+  margin-bottom: 30px;
+}
+
+.about-header h1 {
+  font-size: 2.5rem;
+  color: #17408B; /* Lively blue for impact */
+  font-weight: bold;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.about-subtitle {
+  font-size: 1.2rem;
+  color: #2C2C2C;
+  font-style: italic;
+}
+
+.about-content {
+  text-align: left;
+}
+
+.about-section {
+  margin-bottom: 30px;
+}
+
+.about-section h2 {
+  font-size: 1.8rem;
+  color: #17408B;
+  border-bottom: 3px solid #17408B;
+  padding-bottom: 5px;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.about-section p {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #2C2C2C;
+}
+
+.tech-list {
+  list-style: none;
+  padding: 0;
+}
+
+.tech-list li {
+  font-size: 1rem;
+  padding: 10px;
+  margin: 5px 0;
+  border-radius: 8px;
+  font-family: 'Roboto', sans-serif;
+  text-transform: capitalize;
+}
+
+.about-footer {
+  margin-top: 40px;
+  font-size: 1rem;
+  color: #777;
+  font-style: italic;
+}
+
+.about-list-item {
+  font-size: 1rem;
+  background: #17408B; /* NBA navy blue */
+  padding: 10px;
+  margin: 5px 0;
+  border-radius: 8px;
+  border: 3px solid black;
+  color: #F4EBD0;
+  font-family: 'Roboto', sans-serif;
+  text-transform: capitalize;
+  box-shadow: 5px 3px 0px 0px #C9082A; /* Retro red shadow */
+}
