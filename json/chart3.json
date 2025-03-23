@@ -60,10 +60,10 @@
     {
       "team_id": "ATL",
       "phase_text": "Last Quarter",
-      "total_wins": 71,
+      "total_wins": 72,
       "total_losses": 82,
-      "total_games": 153,
-      "winning_percentage": 0.464,
+      "total_games": 154,
+      "winning_percentage": 0.468,
       "phase": "\ud83c\udf17"
     },
     {
@@ -133,9 +133,9 @@
       "team_id": "BKN",
       "phase_text": "Last Quarter",
       "total_wins": 63,
-      "total_losses": 70,
-      "total_games": 133,
-      "winning_percentage": 0.474,
+      "total_losses": 71,
+      "total_games": 134,
+      "winning_percentage": 0.47,
       "phase": "\ud83c\udf17"
     },
     {
@@ -348,10 +348,10 @@
     {
       "team_id": "CHI",
       "phase_text": "Last Quarter",
-      "total_wins": 62,
+      "total_wins": 63,
       "total_losses": 77,
-      "total_games": 139,
-      "winning_percentage": 0.446,
+      "total_games": 140,
+      "winning_percentage": 0.45,
       "phase": "\ud83c\udf17"
     },
     {
@@ -709,9 +709,9 @@
       "team_id": "GSW",
       "phase_text": "Last Quarter",
       "total_wins": 66,
-      "total_losses": 69,
-      "total_games": 135,
-      "winning_percentage": 0.489,
+      "total_losses": 70,
+      "total_games": 136,
+      "winning_percentage": 0.485,
       "phase": "\ud83c\udf17"
     },
     {
@@ -852,10 +852,10 @@
     {
       "team_id": "IND",
       "phase_text": "Last Quarter",
-      "total_wins": 74,
+      "total_wins": 75,
       "total_losses": 58,
-      "total_games": 132,
-      "winning_percentage": 0.561,
+      "total_games": 133,
+      "winning_percentage": 0.564,
       "phase": "\ud83c\udf17"
     },
     {
@@ -997,9 +997,9 @@
       "team_id": "LAL",
       "phase_text": "Last Quarter",
       "total_wins": 100,
-      "total_losses": 56,
-      "total_games": 156,
-      "winning_percentage": 0.641,
+      "total_losses": 57,
+      "total_games": 157,
+      "winning_percentage": 0.637,
       "phase": "\ud83c\udf17"
     },
     {
@@ -1212,10 +1212,10 @@
     {
       "team_id": "MIL",
       "phase_text": "Last Quarter",
-      "total_wins": 67,
+      "total_wins": 68,
       "total_losses": 67,
-      "total_games": 134,
-      "winning_percentage": 0.5,
+      "total_games": 135,
+      "winning_percentage": 0.504,
       "phase": "\ud83c\udf17"
     },
     {
@@ -1428,10 +1428,10 @@
     {
       "team_id": "NYK",
       "phase_text": "Last Quarter",
-      "total_wins": 67,
+      "total_wins": 68,
       "total_losses": 78,
-      "total_games": 145,
-      "winning_percentage": 0.462,
+      "total_games": 146,
+      "winning_percentage": 0.466,
       "phase": "\ud83c\udf17"
     },
     {
@@ -1861,9 +1861,9 @@
       "team_id": "SAC",
       "phase_text": "Last Quarter",
       "total_wins": 59,
-      "total_losses": 86,
-      "total_games": 145,
-      "winning_percentage": 0.407,
+      "total_losses": 87,
+      "total_games": 146,
+      "winning_percentage": 0.404,
       "phase": "\ud83c\udf17"
     },
     {
@@ -2149,9 +2149,9 @@
       "team_id": "WAS",
       "phase_text": "Last Quarter",
       "total_wins": 54,
-      "total_losses": 93,
-      "total_games": 147,
-      "winning_percentage": 0.367,
+      "total_losses": 94,
+      "total_games": 148,
+      "winning_percentage": 0.365,
       "phase": "\ud83c\udf17"
     },
     {
