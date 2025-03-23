@@ -9,7 +9,7 @@ import About from "./pages/About";
 
 const App = () => {
   return (
-    <Router>
+    <Router basename="/nba-stat-website">
       <Navbar />
       <Routes>
         <Route path="/" element={<NBAFirsts />} />
