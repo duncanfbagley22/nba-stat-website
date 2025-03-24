@@ -259,14 +259,14 @@
     position: relative;
     margin-bottom: 30px; 
     width: 270px;
-    height: 430px;
+    height: 490px;
     margin-top: 25px;
     left: 5px;
   }
 
   .card-side {
     width: 270px;
-    height: 430px
+    height: 490px
   }
 
   .card-text{
@@ -285,6 +285,11 @@
     height: auto;
     border: 3px solid black;
     border-radius: 12px;
+  }
+
+  .vintage-boxscore {
+    font-size: 10px;
+    height: 60%;
   }
 }
 
