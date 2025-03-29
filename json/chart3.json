@@ -142,8 +142,8 @@
       "team_id": "BKN",
       "phase_text": "Waning Crescent",
       "total_wins": 358,
-      "total_losses": 537,
-      "total_games": 895,
+      "total_losses": 538,
+      "total_games": 896,
       "winning_percentage": 0.4,
       "phase": "\ud83c\udf18"
     },
@@ -286,8 +286,8 @@
       "team_id": "CHA",
       "phase_text": "Waning Crescent",
       "total_wins": 248,
-      "total_losses": 352,
-      "total_games": 600,
+      "total_losses": 353,
+      "total_games": 601,
       "winning_percentage": 0.413,
       "phase": "\ud83c\udf18"
     },
@@ -430,9 +430,9 @@
       "team_id": "CLE",
       "phase_text": "Waning Crescent",
       "total_wins": 456,
-      "total_losses": 462,
-      "total_games": 918,
-      "winning_percentage": 0.497,
+      "total_losses": 463,
+      "total_games": 919,
+      "winning_percentage": 0.496,
       "phase": "\ud83c\udf18"
     },
     {
@@ -573,10 +573,10 @@
     {
       "team_id": "DEN",
       "phase_text": "Waning Crescent",
-      "total_wins": 468,
+      "total_wins": 469,
       "total_losses": 423,
-      "total_games": 891,
-      "winning_percentage": 0.525,
+      "total_games": 892,
+      "winning_percentage": 0.526,
       "phase": "\ud83c\udf18"
     },
     {
@@ -645,10 +645,10 @@
     {
       "team_id": "DET",
       "phase_text": "Waning Crescent",
-      "total_wins": 445,
+      "total_wins": 446,
       "total_losses": 491,
-      "total_games": 936,
-      "winning_percentage": 0.475,
+      "total_games": 937,
+      "winning_percentage": 0.476,
       "phase": "\ud83c\udf18"
     },
     {
@@ -717,9 +717,9 @@
     {
       "team_id": "GSW",
       "phase_text": "Waning Crescent",
-      "total_wins": 449,
+      "total_wins": 450,
       "total_losses": 497,
-      "total_games": 946,
+      "total_games": 947,
       "winning_percentage": 0.475,
       "phase": "\ud83c\udf18"
     },
@@ -933,9 +933,9 @@
     {
       "team_id": "LAC",
       "phase_text": "Waning Crescent",
-      "total_wins": 401,
+      "total_wins": 402,
       "total_losses": 497,
-      "total_games": 898,
+      "total_games": 899,
       "winning_percentage": 0.447,
       "phase": "\ud83c\udf18"
     },
@@ -1222,9 +1222,9 @@
       "team_id": "MIL",
       "phase_text": "Waning Crescent",
       "total_wins": 447,
-      "total_losses": 464,
-      "total_games": 911,
-      "winning_percentage": 0.491,
+      "total_losses": 465,
+      "total_games": 912,
+      "winning_percentage": 0.49,
       "phase": "\ud83c\udf18"
     },
     {
@@ -1293,10 +1293,10 @@
     {
       "team_id": "MIN",
       "phase_text": "Waning Crescent",
-      "total_wins": 256,
+      "total_wins": 257,
       "total_losses": 376,
-      "total_games": 632,
-      "winning_percentage": 0.405,
+      "total_games": 633,
+      "winning_percentage": 0.406,
       "phase": "\ud83c\udf18"
     },
     {
@@ -1366,9 +1366,9 @@
       "team_id": "NOP",
       "phase_text": "Waning Crescent",
       "total_wins": 178,
-      "total_losses": 218,
-      "total_games": 396,
-      "winning_percentage": 0.449,
+      "total_losses": 219,
+      "total_games": 397,
+      "winning_percentage": 0.448,
       "phase": "\ud83c\udf18"
     },
     {
@@ -1437,10 +1437,10 @@
     {
       "team_id": "NYK",
       "phase_text": "Waning Crescent",
-      "total_wins": 443,
+      "total_wins": 444,
       "total_losses": 476,
-      "total_games": 919,
-      "winning_percentage": 0.482,
+      "total_games": 920,
+      "winning_percentage": 0.483,
       "phase": "\ud83c\udf18"
     },
     {
@@ -1726,8 +1726,8 @@
       "team_id": "PHO",
       "phase_text": "Waning Crescent",
       "total_wins": 506,
-      "total_losses": 420,
-      "total_games": 926,
+      "total_losses": 421,
+      "total_games": 927,
       "winning_percentage": 0.546,
       "phase": "\ud83c\udf18"
     },
@@ -2013,10 +2013,10 @@
     {
       "team_id": "TOR",
       "phase_text": "Waning Crescent",
-      "total_wins": 249,
+      "total_wins": 250,
       "total_losses": 274,
-      "total_games": 523,
-      "winning_percentage": 0.476,
+      "total_games": 524,
+      "winning_percentage": 0.477,
       "phase": "\ud83c\udf18"
     },
     {
@@ -2086,8 +2086,8 @@
       "team_id": "UTA",
       "phase_text": "Waning Crescent",
       "total_wins": 489,
-      "total_losses": 462,
-      "total_games": 951,
+      "total_losses": 463,
+      "total_games": 952,
       "winning_percentage": 0.514,
       "phase": "\ud83c\udf18"
     },
