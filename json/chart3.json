@@ -78,10 +78,10 @@
     {
       "team_id": "BKN",
       "phase_text": "New Moon",
-      "total_wins": 61,
+      "total_wins": 62,
       "total_losses": 82,
-      "total_games": 143,
-      "winning_percentage": 0.427,
+      "total_games": 144,
+      "winning_percentage": 0.431,
       "phase": "\ud83c\udf11"
     },
     {
@@ -150,10 +150,10 @@
     {
       "team_id": "BOS",
       "phase_text": "New Moon",
-      "total_wins": 99,
+      "total_wins": 100,
       "total_losses": 66,
-      "total_games": 165,
-      "winning_percentage": 0.6,
+      "total_games": 166,
+      "winning_percentage": 0.602,
       "phase": "\ud83c\udf11"
     },
     {
@@ -295,9 +295,9 @@
       "team_id": "CHI",
       "phase_text": "New Moon",
       "total_wins": 79,
-      "total_losses": 70,
-      "total_games": 149,
-      "winning_percentage": 0.53,
+      "total_losses": 71,
+      "total_games": 150,
+      "winning_percentage": 0.527,
       "phase": "\ud83c\udf11"
     },
     {
@@ -438,10 +438,10 @@
     {
       "team_id": "DAL",
       "phase_text": "New Moon",
-      "total_wins": 64,
+      "total_wins": 65,
       "total_losses": 68,
-      "total_games": 132,
-      "winning_percentage": 0.485,
+      "total_games": 133,
+      "winning_percentage": 0.489,
       "phase": "\ud83c\udf11"
     },
     {
@@ -799,9 +799,9 @@
       "team_id": "IND",
       "phase_text": "New Moon",
       "total_wins": 67,
-      "total_losses": 77,
-      "total_games": 144,
-      "winning_percentage": 0.465,
+      "total_losses": 78,
+      "total_games": 145,
+      "winning_percentage": 0.462,
       "phase": "\ud83c\udf11"
     },
     {
@@ -942,10 +942,10 @@
     {
       "team_id": "LAL",
       "phase_text": "New Moon",
-      "total_wins": 95,
+      "total_wins": 96,
       "total_losses": 56,
-      "total_games": 151,
-      "winning_percentage": 0.629,
+      "total_games": 152,
+      "winning_percentage": 0.632,
       "phase": "\ud83c\udf11"
     },
     {
@@ -1015,9 +1015,9 @@
       "team_id": "MEM",
       "phase_text": "New Moon",
       "total_wins": 42,
-      "total_losses": 40,
-      "total_games": 82,
-      "winning_percentage": 0.512,
+      "total_losses": 41,
+      "total_games": 83,
+      "winning_percentage": 0.506,
       "phase": "\ud83c\udf11"
     },
     {
@@ -1086,10 +1086,10 @@
     {
       "team_id": "MIA",
       "phase_text": "New Moon",
-      "total_wins": 62,
+      "total_wins": 63,
       "total_losses": 63,
-      "total_games": 125,
-      "winning_percentage": 0.496,
+      "total_games": 126,
+      "winning_percentage": 0.5,
       "phase": "\ud83c\udf11"
     },
     {
@@ -1446,10 +1446,10 @@
     {
       "team_id": "OKC",
       "phase_text": "New Moon",
-      "total_wins": 89,
+      "total_wins": 90,
       "total_losses": 63,
-      "total_games": 152,
-      "winning_percentage": 0.586,
+      "total_games": 153,
+      "winning_percentage": 0.588,
       "phase": "\ud83c\udf11"
     },
     {
@@ -1518,10 +1518,10 @@
     {
       "team_id": "ORL",
       "phase_text": "New Moon",
-      "total_wins": 47,
+      "total_wins": 48,
       "total_losses": 65,
-      "total_games": 112,
-      "winning_percentage": 0.42,
+      "total_games": 113,
+      "winning_percentage": 0.425,
       "phase": "\ud83c\udf11"
     },
     {
@@ -1591,9 +1591,9 @@
       "team_id": "PHI",
       "phase_text": "New Moon",
       "total_wins": 74,
-      "total_losses": 80,
-      "total_games": 154,
-      "winning_percentage": 0.481,
+      "total_losses": 81,
+      "total_games": 155,
+      "winning_percentage": 0.477,
       "phase": "\ud83c\udf11"
     },
     {
@@ -1807,9 +1807,9 @@
       "team_id": "SAC",
       "phase_text": "New Moon",
       "total_wins": 64,
-      "total_losses": 87,
-      "total_games": 151,
-      "winning_percentage": 0.424,
+      "total_losses": 88,
+      "total_games": 152,
+      "winning_percentage": 0.421,
       "phase": "\ud83c\udf11"
     },
     {
@@ -1879,9 +1879,9 @@
       "team_id": "SAS",
       "phase_text": "New Moon",
       "total_wins": 101,
-      "total_losses": 66,
-      "total_games": 167,
-      "winning_percentage": 0.605,
+      "total_losses": 67,
+      "total_games": 168,
+      "winning_percentage": 0.601,
       "phase": "\ud83c\udf11"
     },
     {
@@ -2095,9 +2095,9 @@
       "team_id": "WAS",
       "phase_text": "New Moon",
       "total_wins": 60,
-      "total_losses": 95,
-      "total_games": 155,
-      "winning_percentage": 0.387,
+      "total_losses": 96,
+      "total_games": 156,
+      "winning_percentage": 0.385,
       "phase": "\ud83c\udf11"
     },
     {
