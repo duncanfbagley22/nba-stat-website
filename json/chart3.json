@@ -610,9 +610,9 @@
       "team_id": "DET",
       "phase_text": "Waxing Gibbous",
       "total_wins": 476,
-      "total_losses": 492,
-      "total_games": 968,
-      "winning_percentage": 0.492,
+      "total_losses": 493,
+      "total_games": 969,
+      "winning_percentage": 0.491,
       "phase": "\ud83c\udf14"
     },
     {
@@ -1113,10 +1113,10 @@
     {
       "team_id": "MIA",
       "phase_text": "Waxing Gibbous",
-      "total_wins": 370,
+      "total_wins": 371,
       "total_losses": 354,
-      "total_games": 724,
-      "winning_percentage": 0.511,
+      "total_games": 725,
+      "winning_percentage": 0.512,
       "phase": "\ud83c\udf14"
     },
     {
@@ -1618,9 +1618,9 @@
       "team_id": "PHI",
       "phase_text": "Waxing Gibbous",
       "total_wins": 491,
-      "total_losses": 486,
-      "total_games": 977,
-      "winning_percentage": 0.503,
+      "total_losses": 487,
+      "total_games": 978,
+      "winning_percentage": 0.502,
       "phase": "\ud83c\udf14"
     },
     {
@@ -1833,9 +1833,9 @@
     {
       "team_id": "SAC",
       "phase_text": "Waxing Gibbous",
-      "total_wins": 422,
+      "total_wins": 423,
       "total_losses": 508,
-      "total_games": 930,
+      "total_games": 931,
       "winning_percentage": 0.454,
       "phase": "\ud83c\udf14"
     },
