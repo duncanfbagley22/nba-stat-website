@@ -311,9 +311,15 @@
     },
     {
       "year": "2025",
-      "ohio": 481344,
-      "michigan": 452734,
-      "pennsylvania": 464873
+      "ohio": 485287,
+      "michigan": 456226,
+      "pennsylvania": 468712
+    },
+    {
+      "year": "2026",
+      "ohio": 487541,
+      "michigan": 457838,
+      "pennsylvania": 470169
     }
   ]
 }
