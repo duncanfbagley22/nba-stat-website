@@ -8,7 +8,7 @@ const TeamFilter = ({ selectedTeam, handleChange }) => {
     "CHI", "CLE", "DET", "IND", "MIL",
     "DAL", "SAS", "HOU", "MEM", "NOP", 
     "DEN", "OKC", "MIN", "POR", "UTA", 
-    "GSW", "LAC", "LAL", "PHX", "SAC"
+    "GSW", "LAC", "LAL", "PHO", "SAC"
   ];
 
   return (

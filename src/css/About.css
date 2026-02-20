@@ -20,7 +20,7 @@
 
 .about-subtitle {
   font-size: 1.2rem;
-  color: #555;
+  color: #2C2C2C;
   font-style: italic;
 }
 
@@ -81,3 +81,73 @@
   text-transform: capitalize;
   box-shadow: 5px 3px 0px 0px #C9082A; /* Retro red shadow */
 }
+
+.other-link {
+  display: flex;
+  width: 200px;
+  margin: 10px;
+  background-color: #1DA1F2;
+  box-shadow: 5px 3px 0px 0px #003366; /* Retro red shadow */
+  border: 2px solid black;
+  color: #000;
+  padding: 8px 12px;
+  border-radius: 8px;
+  font-weight: bold;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.other-link-2 {
+  display: flex;
+  width: 200px;
+  margin: 10px;
+  background-color: #FFC72C;
+  box-shadow: 5px 3px 0px 0px #17408B; /* Retro red shadow */
+  border: 2px solid black;
+  color: #000;
+  padding: 8px 12px;
+  border-radius: 8px;
+  font-weight: bold;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.other-link-3 {
+  display: flex;
+  width: 200px;
+  margin: 10px;
+  background-color: #C9082A;
+  box-shadow: 5px 3px 0px 0px #17408B; /* Retro red shadow */
+  border: 2px solid black;
+  color: #000;
+  padding: 8px 12px;
+  border-radius: 8px;
+  font-weight: bold;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.other-link:hover {
+  background-color: #0D91DA; /* Darker, richer blue for contrast */
+  color: white;
+  transform: scale(1.05);
+}
+
+.other-link-2:hover {
+  background-color: #FFD447; /* A slightly warmer gold to add depth */
+  color: white;
+  transform: scale(1.05);
+}
+
+.other-link-3:hover {
+  background-color: #E0203E; /* Brighter, punchy red for emphasis */
+  color: white;
+  transform: scale(1.05);
+}
+
+.about-links{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+

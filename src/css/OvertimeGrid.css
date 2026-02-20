@@ -71,4 +71,53 @@
   border-radius: 3px;
 }
 
+/* Title - Sticky on smaller screens */
+@media screen and (max-width: 1150px) {
+  
+  .overtime-grid {
+    overflow: hidden; /* Hide any content that goes beyond the grid wrapper */
+  }
+
+  .overtime-wrapper {
+    position: relative;
+    height: 600px; /* Adjust height to accommodate sticky headers */
+    overflow: auto;  /* Allow scrolling within the wrapper */
+  }
+
+  /* Grid Header - Sticky on smaller screens */
+  .grid-header-cell {
+    position: sticky;
+    top: 0;
+    background-color: #8f8f8f; /* Match the header background */
+    z-index: 2; /* Ensure the header stays above grid cells */
+    height: 30px; /* Ensure the header cell has a fixed height */
+  }
+
+  /* Row Header - Sticky on smaller screens */
+  .grid-row .grid-header-cell {
+    position: sticky;
+    left: 0;
+    background-color: #8f8f8f; /* Match the row header background */
+    z-index: 3; /* Ensure the row header stays above other cells */
+    width: 30px; /* Ensure the row header has a fixed width */
+  }
+
+  /* Grid Container */
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(31, 30px); /* 30 teams + 1 for left header */
+    grid-template-rows: repeat(30, 30px); /* Fixed rows for teams */
+    gap: 2px;
+    padding: 10px;
+    overflow-x: auto;  /* Allow horizontal scrolling */
+    overflow-y: auto;  /* Allow vertical scrolling */
+    max-height: 100%; /* Limit height to allow scrolling within the container */
+  }
+
+  .grid-row {
+    display: contents;
+  }
+}
+
+
 

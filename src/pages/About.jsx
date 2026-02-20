@@ -9,6 +9,18 @@ const About = () => {
         <p className="about-subtitle">
           Exploring the NBA through data, trends, and historical firsts.
         </p>
+        
+        <div className="about-links">
+        <a href="https://bsky.app/profile/duncanbagley.bsky.social" target="_blank" rel="noopener noreferrer" className="other-link">
+            Bluesky
+          </a>
+          <a href="https://buymeacoffee.com/duncanbagley" target="_blank" rel="noopener noreferrer" className="other-link-2">
+            Buy Me a Coffee
+          </a>
+          <a href="https://forms.gle/hqtYUWDjkcmdf5TY7" target="_blank" rel="noopener noreferrer" className="other-link-3">
+            Feedback
+          </a>
+        </div>
       </header>
 
       <section className="about-content">
@@ -28,10 +40,10 @@ const About = () => {
         <div className="about-section">
           <h2>Technologies Used</h2>
           <ul className="tech-list">
-          <li className="about-list-item"><strong>React.js</strong> – For creating reusable components and managing state to build the user interface</li>
-          <li className="about-list-item"><strong>HTML/CSS</strong> – To structure and style content, creating a visually appealing and responsive design</li>
-          <li className="about-list-item"><strong>Python</strong> – For performing backend logic, processing data, and interacting with local and external databases</li>
-          <li className="about-list-item"><strong>SQL</strong> – For querying and managing relational databases to store and retrieve structured data</li>
+            <li className="about-list-item"><strong>React.js</strong> – For creating reusable components and managing state to build the user interface</li>
+            <li className="about-list-item"><strong>HTML/CSS</strong> – To structure and style content, creating a visually appealing and responsive design</li>
+            <li className="about-list-item"><strong>Python</strong> – For performing backend logic, processing data, and interacting with local and external databases</li>
+            <li className="about-list-item"><strong>SQL</strong> – For querying and managing relational databases to store and retrieve structured data</li>
           </ul>
         </div>
 
@@ -40,8 +52,8 @@ const About = () => {
           <p>
             To be honest, I'm not sure. 
             The goal was to create something that could be updated through a script automatically. 
-            I may try to have a CRON job run so I don't have to do anything. 
-            In theory, I could also move all the data to the cloud to allow for a lot more interactivity, but that could be most costly. We'll see what's next...
+            I may try to have a job run so I don't have to do anything, but we'll see.
+            In theory, I could also move all the data to the cloud to allow for a lot more interactivity, but that could be more costly. We'll see what's next...
           </p>
         </div>
       </section>

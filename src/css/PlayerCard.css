@@ -21,13 +21,14 @@
 
 .card-container {
   display: flex;
+  position: relative;
   justify-content: space-between; /* Distributes cards evenly with equal gaps */
   align-items: flex-start; /* Aligns them at the top */
   margin-top: -50px;
 }
 
 .card {
-  perspective: 1000px;;
+  perspective: 1000px;
   width: 300px;
   height: 450px;
   position: relative;
@@ -37,7 +38,7 @@
   margin-bottom: 100px;
   align-content: center;
   justify-content: center;
-  left: -26px;
+  left: -30px;
 }
 
 .card:hover {
@@ -54,8 +55,8 @@
 }
 
 .card-side {
-  width: 100%;
-  height: 100%;
+  width: 375px;
+  height: 550px;
   position: absolute;
   top: 0;
   left: 0;
@@ -106,9 +107,10 @@
 
 .card-info {
   margin-top: 10px;
-  margin-bottom: 10px;
+  margin-bottom: 0px;
   overflow-y: hidden;
   font-family: 'Roboto', sans-serif;
+
 }
 
 .card-name {
@@ -135,7 +137,7 @@
 }
 
 .card-text {
-  font-size: 14px;
+  font-size: 15px;
   line-height: 1.25;
   color: #444;
   margin-top: 5px;
@@ -248,5 +250,48 @@
 }
 
 
+@media (max-width: 1330px) {
+  .card-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .card {
+    position: relative;
+    margin-bottom: 30px; 
+    width: 270px;
+    height: 490px;
+    margin-top: 25px;
+    left: 5px;
+  }
+
+  .card-side {
+    width: 270px;
+    height: 490px
+  }
+
+  .card-text{
+    font-size: 12px;
+  }
+
+  .card-team {
+    font-size: 14px;
+  }
+
+  .team-logo {
+    position: absolute;
+    bottom: 15px;
+    right: 15px;
+    width: 50px;  /* Adjust size as needed */
+    height: auto;
+    border: 3px solid black;
+    border-radius: 12px;
+  }
+
+  .vintage-boxscore {
+    font-size: 10px;
+    height: 60%;
+  }
+}
 
 

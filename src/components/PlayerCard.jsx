@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { RotateCw } from "lucide-react"; // Import a flip icon
 import "../css/PlayerCard.css";
 
 const PlayerCard = ({ player_id, name, date, team, team_id, text, stats }) => {
@@ -56,8 +55,8 @@ const PlayerCard = ({ player_id, name, date, team, team_id, text, stats }) => {
     "mp": "Minutes Played",
     "fg": "Field Goals Made",
     "fga": "Field Goals Attempted",
-    "fg3a": "3-Point Attempts",
-    "fg3": "3-Point Made",
+    "fg3a": "3-Point Field Goals Attempts",
+    "fg3": "3-Point Field Goals Made",
     "ft": "Free Throws Made",
     "fta": "Free Throws Attempted",
     "efg_pct": "Effective Field Goal Percentage",
@@ -84,7 +83,8 @@ const PlayerCard = ({ player_id, name, date, team, team_id, text, stats }) => {
     "player_home_away": "Home/Away",
     "double_double": "Double-Double",
     "triple_double": "Triple-Double",
-    "opp_team_id": "Opponent"
+    "opp_team_id": "Opponent",
+    "player_win_lose": "Win/Loss"
   };
 
   const formatStatValue = (operator, value, statName) => {
@@ -103,6 +103,7 @@ const PlayerCard = ({ player_id, name, date, team, team_id, text, stats }) => {
 
   const percentageStats = ["ft_pct", "efg_pct", "fg_pct", "fg3_pct", "ts_pct"];
 
+  if (team_id === 'BKN') {team_id = 'NJN'}; // Adjusted as logo still saved as New Jersey Nets (NJN)
   // Parse the stats string (assuming it's a valid JSON format)
   const parsedStats = stats ? JSON.parse(stats) : [];
   const formatDate = (dateString) => {
@@ -118,7 +119,7 @@ const PlayerCard = ({ player_id, name, date, team, team_id, text, stats }) => {
       <div className="card-side front" style={{ background: `${teamColorsArray[0]}`, color: teamColorsArray[0] }}>        
         <div className="card-name" style={{color: teamColorsArray[2]}}>{name}</div>
         <div className="card-box" style={{ boxShadow: `5px 3px 0px 0px ${teamColorsArray[1]}` }}>
-          <img src={`https://www.basketball-reference.com/req/202106291/images/headshots/${player_id}.jpg`} alt="Profile" className="card-picture" />
+          <img src={`https://www.basketball-reference.com/req/202106291/images/headshots/${player_id}.jpg`} alt="Profile" className="card-picture front" />
           <div className="card-info">
               <p className="card-details">{formatDate(date)}</p>            
               <p className="card-text">{text}</p>

@@ -3,6 +3,7 @@
   max-width: 600px;
   margin: 20px auto;
   padding: 15px;
+  padding-right: 20px;
   position: relative;
   text-align: center;
   font-family: 'Roboto', sans-serif; /* Modern font for clean look */
@@ -74,4 +75,31 @@
   box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2);
   white-space: nowrap;
   pointer-events: none;
+}
+
+@media (max-width: 700px) {
+  .tracker-container {
+    max-width: 400px;
+  }
+}
+
+@media (max-width: 500px) {
+  .tracker-container {
+    max-width: 300px;
+  }
+
+  .tracker-title {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 400px) {
+  .tracker-container {
+    max-width: 250px;
+
+  }
+
+  .tracker-title {
+    font-size: 16px;
+  }
 }
