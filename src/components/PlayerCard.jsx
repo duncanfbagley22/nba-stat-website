@@ -27,7 +27,7 @@ const PlayerCard = ({ player_id, name, date, team, team_id, text, stats }) => {
     "OKC": ["#007AC1", "#EF3340", "#F4EBD0"], // Oklahoma City Thunder (Muted blue and off-white)
     "ORL": ["#0077C0", "#C4CED4", "#F2D0A7"], // Orlando Magic (Muted cyan and cream)
     "PHI": ["#006BB6", "#ED174C", "#F2D0A7"], // Philadelphia 76ers (Retro blue and warm tan)
-    "PHX": ["#1D1160", "#E56020", "#F4EBD0"], // Phoenix Suns (Muted orange and cream)
+    "PHO": ["#1D1160", "#E56020", "#F4EBD0"], // Phoenix Suns (Muted orange and cream)
     "POR": ["#E03A3E", "#000000", "#F2D0A7"], // Portland Trail Blazers (Deep red, black, and warm cream)
     "SAC": ["#5A2D82", "#63727A", "#F4EBD0"], // Sacramento Kings (Muted purple and vintage cream)
     "SAS": ["#000000", "#C4CED4", "#F2D0A7"], // San Antonio Spurs (Retro silver and warm tan)
