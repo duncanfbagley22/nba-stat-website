@@ -592,8 +592,8 @@
       "team_id": "DET",
       "phase_text": "Waxing Crescent",
       "total_wins": 490,
-      "total_losses": 472,
-      "total_games": 962,
+      "total_losses": 473,
+      "total_games": 963,
       "winning_percentage": 0.509,
       "phase": "\ud83c\udf12"
     },
@@ -735,10 +735,10 @@
     {
       "team_id": "HOU",
       "phase_text": "Waxing Crescent",
-      "total_wins": 484,
+      "total_wins": 485,
       "total_losses": 487,
-      "total_games": 971,
-      "winning_percentage": 0.498,
+      "total_games": 972,
+      "winning_percentage": 0.499,
       "phase": "\ud83c\udf12"
     },
     {
@@ -1024,9 +1024,9 @@
       "team_id": "MEM",
       "phase_text": "Waxing Crescent",
       "total_wins": 241,
-      "total_losses": 316,
-      "total_games": 557,
-      "winning_percentage": 0.433,
+      "total_losses": 317,
+      "total_games": 558,
+      "winning_percentage": 0.432,
       "phase": "\ud83c\udf12"
     },
     {
@@ -1815,10 +1815,10 @@
     {
       "team_id": "SAC",
       "phase_text": "Waxing Crescent",
-      "total_wins": 399,
+      "total_wins": 400,
       "total_losses": 524,
-      "total_games": 923,
-      "winning_percentage": 0.432,
+      "total_games": 924,
+      "winning_percentage": 0.433,
       "phase": "\ud83c\udf12"
     },
     {
@@ -1887,9 +1887,9 @@
     {
       "team_id": "SAS",
       "phase_text": "Waxing Crescent",
-      "total_wins": 568,
+      "total_wins": 569,
       "total_losses": 362,
-      "total_games": 930,
+      "total_games": 931,
       "winning_percentage": 0.611,
       "phase": "\ud83c\udf12"
     },
@@ -2032,8 +2032,8 @@
       "team_id": "UTA",
       "phase_text": "Waxing Crescent",
       "total_wins": 513,
-      "total_losses": 458,
-      "total_games": 971,
+      "total_losses": 459,
+      "total_games": 972,
       "winning_percentage": 0.528,
       "phase": "\ud83c\udf12"
     },
