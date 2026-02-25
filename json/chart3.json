@@ -24,10 +24,10 @@
     {
       "team_id": "ATL",
       "phase_text": "First Quarter",
-      "total_wins": 70,
+      "total_wins": 71,
       "total_losses": 84,
-      "total_games": 154,
-      "winning_percentage": 0.455,
+      "total_games": 155,
+      "winning_percentage": 0.458,
       "phase": "\ud83c\udf13"
     },
     {
@@ -97,9 +97,9 @@
       "team_id": "BKN",
       "phase_text": "First Quarter",
       "total_wins": 59,
-      "total_losses": 90,
-      "total_games": 149,
-      "winning_percentage": 0.396,
+      "total_losses": 91,
+      "total_games": 150,
+      "winning_percentage": 0.393,
       "phase": "\ud83c\udf13"
     },
     {
@@ -168,10 +168,10 @@
     {
       "team_id": "BOS",
       "phase_text": "First Quarter",
-      "total_wins": 90,
+      "total_wins": 91,
       "total_losses": 69,
-      "total_games": 159,
-      "winning_percentage": 0.566,
+      "total_games": 160,
+      "winning_percentage": 0.569,
       "phase": "\ud83c\udf13"
     },
     {
@@ -240,10 +240,10 @@
     {
       "team_id": "CHA",
       "phase_text": "First Quarter",
-      "total_wins": 53,
+      "total_wins": 54,
       "total_losses": 48,
-      "total_games": 101,
-      "winning_percentage": 0.525,
+      "total_games": 102,
+      "winning_percentage": 0.529,
       "phase": "\ud83c\udf13"
     },
     {
@@ -313,9 +313,9 @@
       "team_id": "CHI",
       "phase_text": "First Quarter",
       "total_wins": 88,
-      "total_losses": 70,
-      "total_games": 158,
-      "winning_percentage": 0.557,
+      "total_losses": 71,
+      "total_games": 159,
+      "winning_percentage": 0.553,
       "phase": "\ud83c\udf13"
     },
     {
@@ -384,10 +384,10 @@
     {
       "team_id": "CLE",
       "phase_text": "First Quarter",
-      "total_wins": 53,
+      "total_wins": 54,
       "total_losses": 83,
-      "total_games": 136,
-      "winning_percentage": 0.39,
+      "total_games": 137,
+      "winning_percentage": 0.394,
       "phase": "\ud83c\udf13"
     },
     {
@@ -456,10 +456,10 @@
     {
       "team_id": "DAL",
       "phase_text": "First Quarter",
-      "total_wins": 70,
+      "total_wins": 71,
       "total_losses": 74,
-      "total_games": 144,
-      "winning_percentage": 0.486,
+      "total_games": 145,
+      "winning_percentage": 0.49,
       "phase": "\ud83c\udf13"
     },
     {
@@ -673,9 +673,9 @@
       "team_id": "GSW",
       "phase_text": "First Quarter",
       "total_wins": 81,
-      "total_losses": 79,
-      "total_games": 160,
-      "winning_percentage": 0.506,
+      "total_losses": 80,
+      "total_games": 161,
+      "winning_percentage": 0.503,
       "phase": "\ud83c\udf13"
     },
     {
@@ -817,9 +817,9 @@
       "team_id": "IND",
       "phase_text": "First Quarter",
       "total_wins": 85,
-      "total_losses": 68,
-      "total_games": 153,
-      "winning_percentage": 0.556,
+      "total_losses": 69,
+      "total_games": 154,
+      "winning_percentage": 0.552,
       "phase": "\ud83c\udf13"
     },
     {
@@ -961,9 +961,9 @@
       "team_id": "LAL",
       "phase_text": "First Quarter",
       "total_wins": 95,
-      "total_losses": 58,
-      "total_games": 153,
-      "winning_percentage": 0.621,
+      "total_losses": 59,
+      "total_games": 154,
+      "winning_percentage": 0.617,
       "phase": "\ud83c\udf13"
     },
     {
@@ -1105,9 +1105,9 @@
       "team_id": "MIA",
       "phase_text": "First Quarter",
       "total_wins": 54,
-      "total_losses": 48,
-      "total_games": 102,
-      "winning_percentage": 0.529,
+      "total_losses": 49,
+      "total_games": 103,
+      "winning_percentage": 0.524,
       "phase": "\ud83c\udf13"
     },
     {
@@ -1176,10 +1176,10 @@
     {
       "team_id": "MIL",
       "phase_text": "First Quarter",
-      "total_wins": 92,
+      "total_wins": 93,
       "total_losses": 60,
-      "total_games": 152,
-      "winning_percentage": 0.605,
+      "total_games": 153,
+      "winning_percentage": 0.608,
       "phase": "\ud83c\udf13"
     },
     {
@@ -1248,10 +1248,10 @@
     {
       "team_id": "MIN",
       "phase_text": "First Quarter",
-      "total_wins": 48,
+      "total_wins": 49,
       "total_losses": 58,
-      "total_games": 106,
-      "winning_percentage": 0.453,
+      "total_games": 107,
+      "winning_percentage": 0.458,
       "phase": "\ud83c\udf13"
     },
     {
@@ -1320,10 +1320,10 @@
     {
       "team_id": "NOP",
       "phase_text": "First Quarter",
-      "total_wins": 29,
+      "total_wins": 30,
       "total_losses": 43,
-      "total_games": 72,
-      "winning_percentage": 0.403,
+      "total_games": 73,
+      "winning_percentage": 0.411,
       "phase": "\ud83c\udf13"
     },
     {
@@ -1393,9 +1393,9 @@
       "team_id": "NYK",
       "phase_text": "First Quarter",
       "total_wins": 70,
-      "total_losses": 70,
-      "total_games": 140,
-      "winning_percentage": 0.5,
+      "total_losses": 71,
+      "total_games": 141,
+      "winning_percentage": 0.496,
       "phase": "\ud83c\udf13"
     },
     {
@@ -1464,10 +1464,10 @@
     {
       "team_id": "OKC",
       "phase_text": "First Quarter",
-      "total_wins": 71,
+      "total_wins": 72,
       "total_losses": 71,
-      "total_games": 142,
-      "winning_percentage": 0.5,
+      "total_games": 143,
+      "winning_percentage": 0.503,
       "phase": "\ud83c\udf13"
     },
     {
@@ -1536,10 +1536,10 @@
     {
       "team_id": "ORL",
       "phase_text": "First Quarter",
-      "total_wins": 53,
+      "total_wins": 54,
       "total_losses": 60,
-      "total_games": 113,
-      "winning_percentage": 0.469,
+      "total_games": 114,
+      "winning_percentage": 0.474,
       "phase": "\ud83c\udf13"
     },
     {
@@ -1608,10 +1608,10 @@
     {
       "team_id": "PHI",
       "phase_text": "First Quarter",
-      "total_wins": 67,
+      "total_wins": 68,
       "total_losses": 80,
-      "total_games": 147,
-      "winning_percentage": 0.456,
+      "total_games": 148,
+      "winning_percentage": 0.459,
       "phase": "\ud83c\udf13"
     },
     {
@@ -1681,9 +1681,9 @@
       "team_id": "PHO",
       "phase_text": "First Quarter",
       "total_wins": 93,
-      "total_losses": 54,
-      "total_games": 147,
-      "winning_percentage": 0.633,
+      "total_losses": 55,
+      "total_games": 148,
+      "winning_percentage": 0.628,
       "phase": "\ud83c\udf13"
     },
     {
@@ -1753,9 +1753,9 @@
       "team_id": "POR",
       "phase_text": "First Quarter",
       "total_wins": 82,
-      "total_losses": 74,
-      "total_games": 156,
-      "winning_percentage": 0.526,
+      "total_losses": 75,
+      "total_games": 157,
+      "winning_percentage": 0.522,
       "phase": "\ud83c\udf13"
     },
     {
@@ -1969,9 +1969,9 @@
       "team_id": "TOR",
       "phase_text": "First Quarter",
       "total_wins": 33,
-      "total_losses": 56,
-      "total_games": 89,
-      "winning_percentage": 0.371,
+      "total_losses": 57,
+      "total_games": 90,
+      "winning_percentage": 0.367,
       "phase": "\ud83c\udf13"
     },
     {
@@ -2113,9 +2113,9 @@
       "team_id": "WAS",
       "phase_text": "First Quarter",
       "total_wins": 64,
-      "total_losses": 84,
-      "total_games": 148,
-      "winning_percentage": 0.432,
+      "total_losses": 85,
+      "total_games": 149,
+      "winning_percentage": 0.43,
       "phase": "\ud83c\udf13"
     },
     {
