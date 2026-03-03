@@ -1,0 +1,2167 @@
+{
+  "id": 3,
+  "title": "Shoot the Moon: Team Winning Percentage by Moon Phase",
+  "chartType": "AreaChartFillByValue",
+  "data": [
+    {
+      "team_id": "ATL",
+      "phase_text": "New Moon",
+      "total_wins": 75,
+      "total_losses": 76,
+      "total_games": 151,
+      "winning_percentage": 0.497,
+      "phase": "\ud83c\udf11"
+    },
+    {
+      "team_id": "ATL",
+      "phase_text": "Waxing Crescent",
+      "total_wins": 445,
+      "total_losses": 502,
+      "total_games": 947,
+      "winning_percentage": 0.47,
+      "phase": "\ud83c\udf12"
+    },
+    {
+      "team_id": "ATL",
+      "phase_text": "First Quarter",
+      "total_wins": 71,
+      "total_losses": 84,
+      "total_games": 155,
+      "winning_percentage": 0.458,
+      "phase": "\ud83c\udf13"
+    },
+    {
+      "team_id": "ATL",
+      "phase_text": "Waxing Gibbous",
+      "total_wins": 491,
+      "total_losses": 494,
+      "total_games": 985,
+      "winning_percentage": 0.498,
+      "phase": "\ud83c\udf14"
+    },
+    {
+      "team_id": "ATL",
+      "phase_text": "Full Moon",
+      "total_wins": 65,
+      "total_losses": 83,
+      "total_games": 148,
+      "winning_percentage": 0.439,
+      "phase": "\ud83c\udf15"
+    },
+    {
+      "team_id": "ATL",
+      "phase_text": "Waning Gibbous",
+      "total_wins": 471,
+      "total_losses": 450,
+      "total_games": 921,
+      "winning_percentage": 0.511,
+      "phase": "\ud83c\udf16"
+    },
+    {
+      "team_id": "ATL",
+      "phase_text": "Last Quarter",
+      "total_wins": 73,
+      "total_losses": 83,
+      "total_games": 156,
+      "winning_percentage": 0.468,
+      "phase": "\ud83c\udf17"
+    },
+    {
+      "team_id": "ATL",
+      "phase_text": "Waning Crescent",
+      "total_wins": 458,
+      "total_losses": 493,
+      "total_games": 951,
+      "winning_percentage": 0.482,
+      "phase": "\ud83c\udf18"
+    },
+    {
+      "team_id": "BKN",
+      "phase_text": "New Moon",
+      "total_wins": 62,
+      "total_losses": 83,
+      "total_games": 145,
+      "winning_percentage": 0.428,
+      "phase": "\ud83c\udf11"
+    },
+    {
+      "team_id": "BKN",
+      "phase_text": "Waxing Crescent",
+      "total_wins": 369,
+      "total_losses": 525,
+      "total_games": 894,
+      "winning_percentage": 0.413,
+      "phase": "\ud83c\udf12"
+    },
+    {
+      "team_id": "BKN",
+      "phase_text": "First Quarter",
+      "total_wins": 59,
+      "total_losses": 91,
+      "total_games": 150,
+      "winning_percentage": 0.393,
+      "phase": "\ud83c\udf13"
+    },
+    {
+      "team_id": "BKN",
+      "phase_text": "Waxing Gibbous",
+      "total_wins": 424,
+      "total_losses": 518,
+      "total_games": 942,
+      "winning_percentage": 0.45,
+      "phase": "\ud83c\udf14"
+    },
+    {
+      "team_id": "BKN",
+      "phase_text": "Full Moon",
+      "total_wins": 59,
+      "total_losses": 85,
+      "total_games": 144,
+      "winning_percentage": 0.41,
+      "phase": "\ud83c\udf15"
+    },
+    {
+      "team_id": "BKN",
+      "phase_text": "Waning Gibbous",
+      "total_wins": 368,
+      "total_losses": 497,
+      "total_games": 865,
+      "winning_percentage": 0.425,
+      "phase": "\ud83c\udf16"
+    },
+    {
+      "team_id": "BKN",
+      "phase_text": "Last Quarter",
+      "total_wins": 64,
+      "total_losses": 71,
+      "total_games": 135,
+      "winning_percentage": 0.474,
+      "phase": "\ud83c\udf17"
+    },
+    {
+      "team_id": "BKN",
+      "phase_text": "Waning Crescent",
+      "total_wins": 361,
+      "total_losses": 546,
+      "total_games": 907,
+      "winning_percentage": 0.398,
+      "phase": "\ud83c\udf18"
+    },
+    {
+      "team_id": "BOS",
+      "phase_text": "New Moon",
+      "total_wins": 102,
+      "total_losses": 66,
+      "total_games": 168,
+      "winning_percentage": 0.607,
+      "phase": "\ud83c\udf11"
+    },
+    {
+      "team_id": "BOS",
+      "phase_text": "Waxing Crescent",
+      "total_wins": 588,
+      "total_losses": 414,
+      "total_games": 1002,
+      "winning_percentage": 0.587,
+      "phase": "\ud83c\udf12"
+    },
+    {
+      "team_id": "BOS",
+      "phase_text": "First Quarter",
+      "total_wins": 91,
+      "total_losses": 69,
+      "total_games": 160,
+      "winning_percentage": 0.569,
+      "phase": "\ud83c\udf13"
+    },
+    {
+      "team_id": "BOS",
+      "phase_text": "Waxing Gibbous",
+      "total_wins": 584,
+      "total_losses": 499,
+      "total_games": 1083,
+      "winning_percentage": 0.539,
+      "phase": "\ud83c\udf14"
+    },
+    {
+      "team_id": "BOS",
+      "phase_text": "Full Moon",
+      "total_wins": 96,
+      "total_losses": 55,
+      "total_games": 151,
+      "winning_percentage": 0.636,
+      "phase": "\ud83c\udf15"
+    },
+    {
+      "team_id": "BOS",
+      "phase_text": "Waning Gibbous",
+      "total_wins": 573,
+      "total_losses": 422,
+      "total_games": 995,
+      "winning_percentage": 0.576,
+      "phase": "\ud83c\udf16"
+    },
+    {
+      "team_id": "BOS",
+      "phase_text": "Last Quarter",
+      "total_wins": 95,
+      "total_losses": 52,
+      "total_games": 147,
+      "winning_percentage": 0.646,
+      "phase": "\ud83c\udf17"
+    },
+    {
+      "team_id": "BOS",
+      "phase_text": "Waning Crescent",
+      "total_wins": 589,
+      "total_losses": 389,
+      "total_games": 978,
+      "winning_percentage": 0.602,
+      "phase": "\ud83c\udf18"
+    },
+    {
+      "team_id": "CHA",
+      "phase_text": "New Moon",
+      "total_wins": 45,
+      "total_losses": 52,
+      "total_games": 97,
+      "winning_percentage": 0.464,
+      "phase": "\ud83c\udf11"
+    },
+    {
+      "team_id": "CHA",
+      "phase_text": "Waxing Crescent",
+      "total_wins": 274,
+      "total_losses": 364,
+      "total_games": 638,
+      "winning_percentage": 0.429,
+      "phase": "\ud83c\udf12"
+    },
+    {
+      "team_id": "CHA",
+      "phase_text": "First Quarter",
+      "total_wins": 54,
+      "total_losses": 48,
+      "total_games": 102,
+      "winning_percentage": 0.529,
+      "phase": "\ud83c\udf13"
+    },
+    {
+      "team_id": "CHA",
+      "phase_text": "Waxing Gibbous",
+      "total_wins": 289,
+      "total_losses": 377,
+      "total_games": 666,
+      "winning_percentage": 0.434,
+      "phase": "\ud83c\udf14"
+    },
+    {
+      "team_id": "CHA",
+      "phase_text": "Full Moon",
+      "total_wins": 34,
+      "total_losses": 51,
+      "total_games": 85,
+      "winning_percentage": 0.4,
+      "phase": "\ud83c\udf15"
+    },
+    {
+      "team_id": "CHA",
+      "phase_text": "Waning Gibbous",
+      "total_wins": 252,
+      "total_losses": 363,
+      "total_games": 615,
+      "winning_percentage": 0.41,
+      "phase": "\ud83c\udf16"
+    },
+    {
+      "team_id": "CHA",
+      "phase_text": "Last Quarter",
+      "total_wins": 46,
+      "total_losses": 60,
+      "total_games": 106,
+      "winning_percentage": 0.434,
+      "phase": "\ud83c\udf17"
+    },
+    {
+      "team_id": "CHA",
+      "phase_text": "Waning Crescent",
+      "total_wins": 252,
+      "total_losses": 360,
+      "total_games": 612,
+      "winning_percentage": 0.412,
+      "phase": "\ud83c\udf18"
+    },
+    {
+      "team_id": "CHI",
+      "phase_text": "New Moon",
+      "total_wins": 81,
+      "total_losses": 71,
+      "total_games": 152,
+      "winning_percentage": 0.533,
+      "phase": "\ud83c\udf11"
+    },
+    {
+      "team_id": "CHI",
+      "phase_text": "Waxing Crescent",
+      "total_wins": 484,
+      "total_losses": 491,
+      "total_games": 975,
+      "winning_percentage": 0.496,
+      "phase": "\ud83c\udf12"
+    },
+    {
+      "team_id": "CHI",
+      "phase_text": "First Quarter",
+      "total_wins": 88,
+      "total_losses": 71,
+      "total_games": 159,
+      "winning_percentage": 0.553,
+      "phase": "\ud83c\udf13"
+    },
+    {
+      "team_id": "CHI",
+      "phase_text": "Waxing Gibbous",
+      "total_wins": 510,
+      "total_losses": 479,
+      "total_games": 989,
+      "winning_percentage": 0.516,
+      "phase": "\ud83c\udf14"
+    },
+    {
+      "team_id": "CHI",
+      "phase_text": "Full Moon",
+      "total_wins": 81,
+      "total_losses": 75,
+      "total_games": 156,
+      "winning_percentage": 0.519,
+      "phase": "\ud83c\udf15"
+    },
+    {
+      "team_id": "CHI",
+      "phase_text": "Waning Gibbous",
+      "total_wins": 473,
+      "total_losses": 459,
+      "total_games": 932,
+      "winning_percentage": 0.508,
+      "phase": "\ud83c\udf16"
+    },
+    {
+      "team_id": "CHI",
+      "phase_text": "Last Quarter",
+      "total_wins": 64,
+      "total_losses": 79,
+      "total_games": 143,
+      "winning_percentage": 0.448,
+      "phase": "\ud83c\udf17"
+    },
+    {
+      "team_id": "CHI",
+      "phase_text": "Waning Crescent",
+      "total_wins": 496,
+      "total_losses": 478,
+      "total_games": 974,
+      "winning_percentage": 0.509,
+      "phase": "\ud83c\udf18"
+    },
+    {
+      "team_id": "CLE",
+      "phase_text": "New Moon",
+      "total_wins": 82,
+      "total_losses": 81,
+      "total_games": 163,
+      "winning_percentage": 0.503,
+      "phase": "\ud83c\udf11"
+    },
+    {
+      "team_id": "CLE",
+      "phase_text": "Waxing Crescent",
+      "total_wins": 443,
+      "total_losses": 512,
+      "total_games": 955,
+      "winning_percentage": 0.464,
+      "phase": "\ud83c\udf12"
+    },
+    {
+      "team_id": "CLE",
+      "phase_text": "First Quarter",
+      "total_wins": 54,
+      "total_losses": 83,
+      "total_games": 137,
+      "winning_percentage": 0.394,
+      "phase": "\ud83c\udf13"
+    },
+    {
+      "team_id": "CLE",
+      "phase_text": "Waxing Gibbous",
+      "total_wins": 522,
+      "total_losses": 478,
+      "total_games": 1000,
+      "winning_percentage": 0.522,
+      "phase": "\ud83c\udf14"
+    },
+    {
+      "team_id": "CLE",
+      "phase_text": "Full Moon",
+      "total_wins": 84,
+      "total_losses": 76,
+      "total_games": 160,
+      "winning_percentage": 0.525,
+      "phase": "\ud83c\udf15"
+    },
+    {
+      "team_id": "CLE",
+      "phase_text": "Waning Gibbous",
+      "total_wins": 437,
+      "total_losses": 487,
+      "total_games": 924,
+      "winning_percentage": 0.473,
+      "phase": "\ud83c\udf16"
+    },
+    {
+      "team_id": "CLE",
+      "phase_text": "Last Quarter",
+      "total_wins": 85,
+      "total_losses": 70,
+      "total_games": 155,
+      "winning_percentage": 0.548,
+      "phase": "\ud83c\udf17"
+    },
+    {
+      "team_id": "CLE",
+      "phase_text": "Waning Crescent",
+      "total_wins": 464,
+      "total_losses": 468,
+      "total_games": 932,
+      "winning_percentage": 0.498,
+      "phase": "\ud83c\udf18"
+    },
+    {
+      "team_id": "DAL",
+      "phase_text": "New Moon",
+      "total_wins": 65,
+      "total_losses": 68,
+      "total_games": 133,
+      "winning_percentage": 0.489,
+      "phase": "\ud83c\udf11"
+    },
+    {
+      "team_id": "DAL",
+      "phase_text": "Waxing Crescent",
+      "total_wins": 442,
+      "total_losses": 426,
+      "total_games": 868,
+      "winning_percentage": 0.509,
+      "phase": "\ud83c\udf12"
+    },
+    {
+      "team_id": "DAL",
+      "phase_text": "First Quarter",
+      "total_wins": 71,
+      "total_losses": 74,
+      "total_games": 145,
+      "winning_percentage": 0.49,
+      "phase": "\ud83c\udf13"
+    },
+    {
+      "team_id": "DAL",
+      "phase_text": "Waxing Gibbous",
+      "total_wins": 434,
+      "total_losses": 432,
+      "total_games": 866,
+      "winning_percentage": 0.501,
+      "phase": "\ud83c\udf14"
+    },
+    {
+      "team_id": "DAL",
+      "phase_text": "Full Moon",
+      "total_wins": 54,
+      "total_losses": 70,
+      "total_games": 124,
+      "winning_percentage": 0.435,
+      "phase": "\ud83c\udf15"
+    },
+    {
+      "team_id": "DAL",
+      "phase_text": "Waning Gibbous",
+      "total_wins": 413,
+      "total_losses": 416,
+      "total_games": 829,
+      "winning_percentage": 0.498,
+      "phase": "\ud83c\udf16"
+    },
+    {
+      "team_id": "DAL",
+      "phase_text": "Last Quarter",
+      "total_wins": 65,
+      "total_losses": 69,
+      "total_games": 134,
+      "winning_percentage": 0.485,
+      "phase": "\ud83c\udf17"
+    },
+    {
+      "team_id": "DAL",
+      "phase_text": "Waning Crescent",
+      "total_wins": 432,
+      "total_losses": 405,
+      "total_games": 837,
+      "winning_percentage": 0.516,
+      "phase": "\ud83c\udf18"
+    },
+    {
+      "team_id": "DEN",
+      "phase_text": "New Moon",
+      "total_wins": 55,
+      "total_losses": 87,
+      "total_games": 142,
+      "winning_percentage": 0.387,
+      "phase": "\ud83c\udf11"
+    },
+    {
+      "team_id": "DEN",
+      "phase_text": "Waxing Crescent",
+      "total_wins": 452,
+      "total_losses": 472,
+      "total_games": 924,
+      "winning_percentage": 0.489,
+      "phase": "\ud83c\udf12"
+    },
+    {
+      "team_id": "DEN",
+      "phase_text": "First Quarter",
+      "total_wins": 69,
+      "total_losses": 74,
+      "total_games": 143,
+      "winning_percentage": 0.483,
+      "phase": "\ud83c\udf13"
+    },
+    {
+      "team_id": "DEN",
+      "phase_text": "Waxing Gibbous",
+      "total_wins": 500,
+      "total_losses": 450,
+      "total_games": 950,
+      "winning_percentage": 0.526,
+      "phase": "\ud83c\udf14"
+    },
+    {
+      "team_id": "DEN",
+      "phase_text": "Full Moon",
+      "total_wins": 65,
+      "total_losses": 90,
+      "total_games": 155,
+      "winning_percentage": 0.419,
+      "phase": "\ud83c\udf15"
+    },
+    {
+      "team_id": "DEN",
+      "phase_text": "Waning Gibbous",
+      "total_wins": 453,
+      "total_losses": 446,
+      "total_games": 899,
+      "winning_percentage": 0.504,
+      "phase": "\ud83c\udf16"
+    },
+    {
+      "team_id": "DEN",
+      "phase_text": "Last Quarter",
+      "total_wins": 80,
+      "total_losses": 70,
+      "total_games": 150,
+      "winning_percentage": 0.533,
+      "phase": "\ud83c\udf17"
+    },
+    {
+      "team_id": "DEN",
+      "phase_text": "Waning Crescent",
+      "total_wins": 479,
+      "total_losses": 426,
+      "total_games": 905,
+      "winning_percentage": 0.529,
+      "phase": "\ud83c\udf18"
+    },
+    {
+      "team_id": "DET",
+      "phase_text": "New Moon",
+      "total_wins": 73,
+      "total_losses": 88,
+      "total_games": 161,
+      "winning_percentage": 0.453,
+      "phase": "\ud83c\udf11"
+    },
+    {
+      "team_id": "DET",
+      "phase_text": "Waxing Crescent",
+      "total_wins": 490,
+      "total_losses": 473,
+      "total_games": 963,
+      "winning_percentage": 0.509,
+      "phase": "\ud83c\udf12"
+    },
+    {
+      "team_id": "DET",
+      "phase_text": "First Quarter",
+      "total_wins": 70,
+      "total_losses": 80,
+      "total_games": 150,
+      "winning_percentage": 0.467,
+      "phase": "\ud83c\udf13"
+    },
+    {
+      "team_id": "DET",
+      "phase_text": "Waxing Gibbous",
+      "total_wins": 487,
+      "total_losses": 498,
+      "total_games": 985,
+      "winning_percentage": 0.494,
+      "phase": "\ud83c\udf14"
+    },
+    {
+      "team_id": "DET",
+      "phase_text": "Full Moon",
+      "total_wins": 82,
+      "total_losses": 71,
+      "total_games": 153,
+      "winning_percentage": 0.536,
+      "phase": "\ud83c\udf15"
+    },
+    {
+      "team_id": "DET",
+      "phase_text": "Waning Gibbous",
+      "total_wins": 459,
+      "total_losses": 477,
+      "total_games": 936,
+      "winning_percentage": 0.49,
+      "phase": "\ud83c\udf16"
+    },
+    {
+      "team_id": "DET",
+      "phase_text": "Last Quarter",
+      "total_wins": 75,
+      "total_losses": 84,
+      "total_games": 159,
+      "winning_percentage": 0.472,
+      "phase": "\ud83c\udf17"
+    },
+    {
+      "team_id": "DET",
+      "phase_text": "Waning Crescent",
+      "total_wins": 455,
+      "total_losses": 493,
+      "total_games": 948,
+      "winning_percentage": 0.48,
+      "phase": "\ud83c\udf18"
+    },
+    {
+      "team_id": "GSW",
+      "phase_text": "New Moon",
+      "total_wins": 80,
+      "total_losses": 69,
+      "total_games": 149,
+      "winning_percentage": 0.537,
+      "phase": "\ud83c\udf11"
+    },
+    {
+      "team_id": "GSW",
+      "phase_text": "Waxing Crescent",
+      "total_wins": 492,
+      "total_losses": 473,
+      "total_games": 965,
+      "winning_percentage": 0.51,
+      "phase": "\ud83c\udf12"
+    },
+    {
+      "team_id": "GSW",
+      "phase_text": "First Quarter",
+      "total_wins": 81,
+      "total_losses": 80,
+      "total_games": 161,
+      "winning_percentage": 0.503,
+      "phase": "\ud83c\udf13"
+    },
+    {
+      "team_id": "GSW",
+      "phase_text": "Waxing Gibbous",
+      "total_wins": 463,
+      "total_losses": 511,
+      "total_games": 974,
+      "winning_percentage": 0.475,
+      "phase": "\ud83c\udf14"
+    },
+    {
+      "team_id": "GSW",
+      "phase_text": "Full Moon",
+      "total_wins": 68,
+      "total_losses": 77,
+      "total_games": 145,
+      "winning_percentage": 0.469,
+      "phase": "\ud83c\udf15"
+    },
+    {
+      "team_id": "GSW",
+      "phase_text": "Waning Gibbous",
+      "total_wins": 465,
+      "total_losses": 468,
+      "total_games": 933,
+      "winning_percentage": 0.498,
+      "phase": "\ud83c\udf16"
+    },
+    {
+      "team_id": "GSW",
+      "phase_text": "Last Quarter",
+      "total_wins": 69,
+      "total_losses": 70,
+      "total_games": 139,
+      "winning_percentage": 0.496,
+      "phase": "\ud83c\udf17"
+    },
+    {
+      "team_id": "GSW",
+      "phase_text": "Waning Crescent",
+      "total_wins": 456,
+      "total_losses": 505,
+      "total_games": 961,
+      "winning_percentage": 0.475,
+      "phase": "\ud83c\udf18"
+    },
+    {
+      "team_id": "HOU",
+      "phase_text": "New Moon",
+      "total_wins": 81,
+      "total_losses": 62,
+      "total_games": 143,
+      "winning_percentage": 0.566,
+      "phase": "\ud83c\udf11"
+    },
+    {
+      "team_id": "HOU",
+      "phase_text": "Waxing Crescent",
+      "total_wins": 485,
+      "total_losses": 487,
+      "total_games": 972,
+      "winning_percentage": 0.499,
+      "phase": "\ud83c\udf12"
+    },
+    {
+      "team_id": "HOU",
+      "phase_text": "First Quarter",
+      "total_wins": 77,
+      "total_losses": 78,
+      "total_games": 155,
+      "winning_percentage": 0.497,
+      "phase": "\ud83c\udf13"
+    },
+    {
+      "team_id": "HOU",
+      "phase_text": "Waxing Gibbous",
+      "total_wins": 564,
+      "total_losses": 448,
+      "total_games": 1012,
+      "winning_percentage": 0.557,
+      "phase": "\ud83c\udf14"
+    },
+    {
+      "team_id": "HOU",
+      "phase_text": "Full Moon",
+      "total_wins": 74,
+      "total_losses": 69,
+      "total_games": 143,
+      "winning_percentage": 0.517,
+      "phase": "\ud83c\udf15"
+    },
+    {
+      "team_id": "HOU",
+      "phase_text": "Waning Gibbous",
+      "total_wins": 510,
+      "total_losses": 446,
+      "total_games": 956,
+      "winning_percentage": 0.533,
+      "phase": "\ud83c\udf16"
+    },
+    {
+      "team_id": "HOU",
+      "phase_text": "Last Quarter",
+      "total_wins": 86,
+      "total_losses": 62,
+      "total_games": 148,
+      "winning_percentage": 0.581,
+      "phase": "\ud83c\udf17"
+    },
+    {
+      "team_id": "HOU",
+      "phase_text": "Waning Crescent",
+      "total_wins": 522,
+      "total_losses": 445,
+      "total_games": 967,
+      "winning_percentage": 0.54,
+      "phase": "\ud83c\udf18"
+    },
+    {
+      "team_id": "IND",
+      "phase_text": "New Moon",
+      "total_wins": 68,
+      "total_losses": 78,
+      "total_games": 146,
+      "winning_percentage": 0.466,
+      "phase": "\ud83c\udf11"
+    },
+    {
+      "team_id": "IND",
+      "phase_text": "Waxing Crescent",
+      "total_wins": 461,
+      "total_losses": 468,
+      "total_games": 929,
+      "winning_percentage": 0.496,
+      "phase": "\ud83c\udf12"
+    },
+    {
+      "team_id": "IND",
+      "phase_text": "First Quarter",
+      "total_wins": 85,
+      "total_losses": 69,
+      "total_games": 154,
+      "winning_percentage": 0.552,
+      "phase": "\ud83c\udf13"
+    },
+    {
+      "team_id": "IND",
+      "phase_text": "Waxing Gibbous",
+      "total_wins": 450,
+      "total_losses": 513,
+      "total_games": 963,
+      "winning_percentage": 0.467,
+      "phase": "\ud83c\udf14"
+    },
+    {
+      "team_id": "IND",
+      "phase_text": "Full Moon",
+      "total_wins": 71,
+      "total_losses": 66,
+      "total_games": 137,
+      "winning_percentage": 0.518,
+      "phase": "\ud83c\udf15"
+    },
+    {
+      "team_id": "IND",
+      "phase_text": "Waning Gibbous",
+      "total_wins": 459,
+      "total_losses": 455,
+      "total_games": 914,
+      "winning_percentage": 0.502,
+      "phase": "\ud83c\udf16"
+    },
+    {
+      "team_id": "IND",
+      "phase_text": "Last Quarter",
+      "total_wins": 76,
+      "total_losses": 58,
+      "total_games": 134,
+      "winning_percentage": 0.567,
+      "phase": "\ud83c\udf17"
+    },
+    {
+      "team_id": "IND",
+      "phase_text": "Waning Crescent",
+      "total_wins": 464,
+      "total_losses": 454,
+      "total_games": 918,
+      "winning_percentage": 0.505,
+      "phase": "\ud83c\udf18"
+    },
+    {
+      "team_id": "LAC",
+      "phase_text": "New Moon",
+      "total_wins": 51,
+      "total_losses": 92,
+      "total_games": 143,
+      "winning_percentage": 0.357,
+      "phase": "\ud83c\udf11"
+    },
+    {
+      "team_id": "LAC",
+      "phase_text": "Waxing Crescent",
+      "total_wins": 405,
+      "total_losses": 524,
+      "total_games": 929,
+      "winning_percentage": 0.436,
+      "phase": "\ud83c\udf12"
+    },
+    {
+      "team_id": "LAC",
+      "phase_text": "First Quarter",
+      "total_wins": 72,
+      "total_losses": 94,
+      "total_games": 166,
+      "winning_percentage": 0.434,
+      "phase": "\ud83c\udf13"
+    },
+    {
+      "team_id": "LAC",
+      "phase_text": "Waxing Gibbous",
+      "total_wins": 418,
+      "total_losses": 536,
+      "total_games": 954,
+      "winning_percentage": 0.438,
+      "phase": "\ud83c\udf14"
+    },
+    {
+      "team_id": "LAC",
+      "phase_text": "Full Moon",
+      "total_wins": 73,
+      "total_losses": 78,
+      "total_games": 151,
+      "winning_percentage": 0.483,
+      "phase": "\ud83c\udf15"
+    },
+    {
+      "team_id": "LAC",
+      "phase_text": "Waning Gibbous",
+      "total_wins": 389,
+      "total_losses": 538,
+      "total_games": 927,
+      "winning_percentage": 0.42,
+      "phase": "\ud83c\udf16"
+    },
+    {
+      "team_id": "LAC",
+      "phase_text": "Last Quarter",
+      "total_wins": 64,
+      "total_losses": 83,
+      "total_games": 147,
+      "winning_percentage": 0.435,
+      "phase": "\ud83c\udf17"
+    },
+    {
+      "team_id": "LAC",
+      "phase_text": "Waning Crescent",
+      "total_wins": 409,
+      "total_losses": 503,
+      "total_games": 912,
+      "winning_percentage": 0.448,
+      "phase": "\ud83c\udf18"
+    },
+    {
+      "team_id": "LAL",
+      "phase_text": "New Moon",
+      "total_wins": 97,
+      "total_losses": 58,
+      "total_games": 155,
+      "winning_percentage": 0.626,
+      "phase": "\ud83c\udf11"
+    },
+    {
+      "team_id": "LAL",
+      "phase_text": "Waxing Crescent",
+      "total_wins": 611,
+      "total_losses": 399,
+      "total_games": 1010,
+      "winning_percentage": 0.605,
+      "phase": "\ud83c\udf12"
+    },
+    {
+      "team_id": "LAL",
+      "phase_text": "First Quarter",
+      "total_wins": 95,
+      "total_losses": 59,
+      "total_games": 154,
+      "winning_percentage": 0.617,
+      "phase": "\ud83c\udf13"
+    },
+    {
+      "team_id": "LAL",
+      "phase_text": "Waxing Gibbous",
+      "total_wins": 616,
+      "total_losses": 434,
+      "total_games": 1050,
+      "winning_percentage": 0.587,
+      "phase": "\ud83c\udf14"
+    },
+    {
+      "team_id": "LAL",
+      "phase_text": "Full Moon",
+      "total_wins": 100,
+      "total_losses": 72,
+      "total_games": 172,
+      "winning_percentage": 0.581,
+      "phase": "\ud83c\udf15"
+    },
+    {
+      "team_id": "LAL",
+      "phase_text": "Waning Gibbous",
+      "total_wins": 587,
+      "total_losses": 405,
+      "total_games": 992,
+      "winning_percentage": 0.592,
+      "phase": "\ud83c\udf16"
+    },
+    {
+      "team_id": "LAL",
+      "phase_text": "Last Quarter",
+      "total_wins": 100,
+      "total_losses": 59,
+      "total_games": 159,
+      "winning_percentage": 0.629,
+      "phase": "\ud83c\udf17"
+    },
+    {
+      "team_id": "LAL",
+      "phase_text": "Waning Crescent",
+      "total_wins": 591,
+      "total_losses": 401,
+      "total_games": 992,
+      "winning_percentage": 0.596,
+      "phase": "\ud83c\udf18"
+    },
+    {
+      "team_id": "MEM",
+      "phase_text": "New Moon",
+      "total_wins": 44,
+      "total_losses": 41,
+      "total_games": 85,
+      "winning_percentage": 0.518,
+      "phase": "\ud83c\udf11"
+    },
+    {
+      "team_id": "MEM",
+      "phase_text": "Waxing Crescent",
+      "total_wins": 241,
+      "total_losses": 317,
+      "total_games": 558,
+      "winning_percentage": 0.432,
+      "phase": "\ud83c\udf12"
+    },
+    {
+      "team_id": "MEM",
+      "phase_text": "First Quarter",
+      "total_wins": 38,
+      "total_losses": 58,
+      "total_games": 96,
+      "winning_percentage": 0.396,
+      "phase": "\ud83c\udf13"
+    },
+    {
+      "team_id": "MEM",
+      "phase_text": "Waxing Gibbous",
+      "total_wins": 263,
+      "total_losses": 309,
+      "total_games": 572,
+      "winning_percentage": 0.46,
+      "phase": "\ud83c\udf14"
+    },
+    {
+      "team_id": "MEM",
+      "phase_text": "Full Moon",
+      "total_wins": 35,
+      "total_losses": 58,
+      "total_games": 93,
+      "winning_percentage": 0.376,
+      "phase": "\ud83c\udf15"
+    },
+    {
+      "team_id": "MEM",
+      "phase_text": "Waning Gibbous",
+      "total_wins": 225,
+      "total_losses": 310,
+      "total_games": 535,
+      "winning_percentage": 0.421,
+      "phase": "\ud83c\udf16"
+    },
+    {
+      "team_id": "MEM",
+      "phase_text": "Last Quarter",
+      "total_wins": 32,
+      "total_losses": 52,
+      "total_games": 84,
+      "winning_percentage": 0.381,
+      "phase": "\ud83c\udf17"
+    },
+    {
+      "team_id": "MEM",
+      "phase_text": "Waning Crescent",
+      "total_wins": 232,
+      "total_losses": 304,
+      "total_games": 536,
+      "winning_percentage": 0.433,
+      "phase": "\ud83c\udf18"
+    },
+    {
+      "team_id": "MIA",
+      "phase_text": "New Moon",
+      "total_wins": 63,
+      "total_losses": 64,
+      "total_games": 127,
+      "winning_percentage": 0.496,
+      "phase": "\ud83c\udf11"
+    },
+    {
+      "team_id": "MIA",
+      "phase_text": "Waxing Crescent",
+      "total_wins": 388,
+      "total_losses": 346,
+      "total_games": 734,
+      "winning_percentage": 0.529,
+      "phase": "\ud83c\udf12"
+    },
+    {
+      "team_id": "MIA",
+      "phase_text": "First Quarter",
+      "total_wins": 54,
+      "total_losses": 49,
+      "total_games": 103,
+      "winning_percentage": 0.524,
+      "phase": "\ud83c\udf13"
+    },
+    {
+      "team_id": "MIA",
+      "phase_text": "Waxing Gibbous",
+      "total_wins": 378,
+      "total_losses": 362,
+      "total_games": 740,
+      "winning_percentage": 0.511,
+      "phase": "\ud83c\udf14"
+    },
+    {
+      "team_id": "MIA",
+      "phase_text": "Full Moon",
+      "total_wins": 49,
+      "total_losses": 62,
+      "total_games": 111,
+      "winning_percentage": 0.441,
+      "phase": "\ud83c\udf15"
+    },
+    {
+      "team_id": "MIA",
+      "phase_text": "Waning Gibbous",
+      "total_wins": 375,
+      "total_losses": 316,
+      "total_games": 691,
+      "winning_percentage": 0.543,
+      "phase": "\ud83c\udf16"
+    },
+    {
+      "team_id": "MIA",
+      "phase_text": "Last Quarter",
+      "total_wins": 49,
+      "total_losses": 63,
+      "total_games": 112,
+      "winning_percentage": 0.438,
+      "phase": "\ud83c\udf17"
+    },
+    {
+      "team_id": "MIA",
+      "phase_text": "Waning Crescent",
+      "total_wins": 399,
+      "total_losses": 311,
+      "total_games": 710,
+      "winning_percentage": 0.562,
+      "phase": "\ud83c\udf18"
+    },
+    {
+      "team_id": "MIL",
+      "phase_text": "New Moon",
+      "total_wins": 72,
+      "total_losses": 79,
+      "total_games": 151,
+      "winning_percentage": 0.477,
+      "phase": "\ud83c\udf11"
+    },
+    {
+      "team_id": "MIL",
+      "phase_text": "Waxing Crescent",
+      "total_wins": 502,
+      "total_losses": 484,
+      "total_games": 986,
+      "winning_percentage": 0.509,
+      "phase": "\ud83c\udf12"
+    },
+    {
+      "team_id": "MIL",
+      "phase_text": "First Quarter",
+      "total_wins": 93,
+      "total_losses": 60,
+      "total_games": 153,
+      "winning_percentage": 0.608,
+      "phase": "\ud83c\udf13"
+    },
+    {
+      "team_id": "MIL",
+      "phase_text": "Waxing Gibbous",
+      "total_wins": 511,
+      "total_losses": 490,
+      "total_games": 1001,
+      "winning_percentage": 0.51,
+      "phase": "\ud83c\udf14"
+    },
+    {
+      "team_id": "MIL",
+      "phase_text": "Full Moon",
+      "total_wins": 67,
+      "total_losses": 77,
+      "total_games": 144,
+      "winning_percentage": 0.465,
+      "phase": "\ud83c\udf15"
+    },
+    {
+      "team_id": "MIL",
+      "phase_text": "Waning Gibbous",
+      "total_wins": 485,
+      "total_losses": 453,
+      "total_games": 938,
+      "winning_percentage": 0.517,
+      "phase": "\ud83c\udf16"
+    },
+    {
+      "team_id": "MIL",
+      "phase_text": "Last Quarter",
+      "total_wins": 69,
+      "total_losses": 69,
+      "total_games": 138,
+      "winning_percentage": 0.5,
+      "phase": "\ud83c\udf17"
+    },
+    {
+      "team_id": "MIL",
+      "phase_text": "Waning Crescent",
+      "total_wins": 451,
+      "total_losses": 473,
+      "total_games": 924,
+      "winning_percentage": 0.488,
+      "phase": "\ud83c\udf18"
+    },
+    {
+      "team_id": "MIN",
+      "phase_text": "New Moon",
+      "total_wins": 44,
+      "total_losses": 63,
+      "total_games": 107,
+      "winning_percentage": 0.411,
+      "phase": "\ud83c\udf11"
+    },
+    {
+      "team_id": "MIN",
+      "phase_text": "Waxing Crescent",
+      "total_wins": 281,
+      "total_losses": 388,
+      "total_games": 669,
+      "winning_percentage": 0.42,
+      "phase": "\ud83c\udf12"
+    },
+    {
+      "team_id": "MIN",
+      "phase_text": "First Quarter",
+      "total_wins": 49,
+      "total_losses": 58,
+      "total_games": 107,
+      "winning_percentage": 0.458,
+      "phase": "\ud83c\udf13"
+    },
+    {
+      "team_id": "MIN",
+      "phase_text": "Waxing Gibbous",
+      "total_wins": 276,
+      "total_losses": 416,
+      "total_games": 692,
+      "winning_percentage": 0.399,
+      "phase": "\ud83c\udf14"
+    },
+    {
+      "team_id": "MIN",
+      "phase_text": "Full Moon",
+      "total_wins": 59,
+      "total_losses": 41,
+      "total_games": 100,
+      "winning_percentage": 0.59,
+      "phase": "\ud83c\udf15"
+    },
+    {
+      "team_id": "MIN",
+      "phase_text": "Waning Gibbous",
+      "total_wins": 263,
+      "total_losses": 351,
+      "total_games": 614,
+      "winning_percentage": 0.428,
+      "phase": "\ud83c\udf16"
+    },
+    {
+      "team_id": "MIN",
+      "phase_text": "Last Quarter",
+      "total_wins": 36,
+      "total_losses": 60,
+      "total_games": 96,
+      "winning_percentage": 0.375,
+      "phase": "\ud83c\udf17"
+    },
+    {
+      "team_id": "MIN",
+      "phase_text": "Waning Crescent",
+      "total_wins": 267,
+      "total_losses": 382,
+      "total_games": 649,
+      "winning_percentage": 0.411,
+      "phase": "\ud83c\udf18"
+    },
+    {
+      "team_id": "NOP",
+      "phase_text": "New Moon",
+      "total_wins": 39,
+      "total_losses": 35,
+      "total_games": 74,
+      "winning_percentage": 0.527,
+      "phase": "\ud83c\udf11"
+    },
+    {
+      "team_id": "NOP",
+      "phase_text": "Waxing Crescent",
+      "total_wins": 193,
+      "total_losses": 224,
+      "total_games": 417,
+      "winning_percentage": 0.463,
+      "phase": "\ud83c\udf12"
+    },
+    {
+      "team_id": "NOP",
+      "phase_text": "First Quarter",
+      "total_wins": 30,
+      "total_losses": 43,
+      "total_games": 73,
+      "winning_percentage": 0.411,
+      "phase": "\ud83c\udf13"
+    },
+    {
+      "team_id": "NOP",
+      "phase_text": "Waxing Gibbous",
+      "total_wins": 198,
+      "total_losses": 253,
+      "total_games": 451,
+      "winning_percentage": 0.439,
+      "phase": "\ud83c\udf14"
+    },
+    {
+      "team_id": "NOP",
+      "phase_text": "Full Moon",
+      "total_wins": 35,
+      "total_losses": 37,
+      "total_games": 72,
+      "winning_percentage": 0.486,
+      "phase": "\ud83c\udf15"
+    },
+    {
+      "team_id": "NOP",
+      "phase_text": "Waning Gibbous",
+      "total_wins": 190,
+      "total_losses": 222,
+      "total_games": 412,
+      "winning_percentage": 0.461,
+      "phase": "\ud83c\udf16"
+    },
+    {
+      "team_id": "NOP",
+      "phase_text": "Last Quarter",
+      "total_wins": 30,
+      "total_losses": 39,
+      "total_games": 69,
+      "winning_percentage": 0.435,
+      "phase": "\ud83c\udf17"
+    },
+    {
+      "team_id": "NOP",
+      "phase_text": "Waning Crescent",
+      "total_wins": 181,
+      "total_losses": 227,
+      "total_games": 408,
+      "winning_percentage": 0.444,
+      "phase": "\ud83c\udf18"
+    },
+    {
+      "team_id": "NYK",
+      "phase_text": "New Moon",
+      "total_wins": 64,
+      "total_losses": 83,
+      "total_games": 147,
+      "winning_percentage": 0.435,
+      "phase": "\ud83c\udf11"
+    },
+    {
+      "team_id": "NYK",
+      "phase_text": "Waxing Crescent",
+      "total_wins": 490,
+      "total_losses": 491,
+      "total_games": 981,
+      "winning_percentage": 0.499,
+      "phase": "\ud83c\udf12"
+    },
+    {
+      "team_id": "NYK",
+      "phase_text": "First Quarter",
+      "total_wins": 70,
+      "total_losses": 71,
+      "total_games": 141,
+      "winning_percentage": 0.496,
+      "phase": "\ud83c\udf13"
+    },
+    {
+      "team_id": "NYK",
+      "phase_text": "Waxing Gibbous",
+      "total_wins": 474,
+      "total_losses": 521,
+      "total_games": 995,
+      "winning_percentage": 0.476,
+      "phase": "\ud83c\udf14"
+    },
+    {
+      "team_id": "NYK",
+      "phase_text": "Full Moon",
+      "total_wins": 81,
+      "total_losses": 80,
+      "total_games": 161,
+      "winning_percentage": 0.503,
+      "phase": "\ud83c\udf15"
+    },
+    {
+      "team_id": "NYK",
+      "phase_text": "Waning Gibbous",
+      "total_wins": 430,
+      "total_losses": 490,
+      "total_games": 920,
+      "winning_percentage": 0.467,
+      "phase": "\ud83c\udf16"
+    },
+    {
+      "team_id": "NYK",
+      "phase_text": "Last Quarter",
+      "total_wins": 68,
+      "total_losses": 79,
+      "total_games": 147,
+      "winning_percentage": 0.463,
+      "phase": "\ud83c\udf17"
+    },
+    {
+      "team_id": "NYK",
+      "phase_text": "Waning Crescent",
+      "total_wins": 453,
+      "total_losses": 484,
+      "total_games": 937,
+      "winning_percentage": 0.483,
+      "phase": "\ud83c\udf18"
+    },
+    {
+      "team_id": "OKC",
+      "phase_text": "New Moon",
+      "total_wins": 92,
+      "total_losses": 64,
+      "total_games": 156,
+      "winning_percentage": 0.59,
+      "phase": "\ud83c\udf11"
+    },
+    {
+      "team_id": "OKC",
+      "phase_text": "Waxing Crescent",
+      "total_wins": 561,
+      "total_losses": 433,
+      "total_games": 994,
+      "winning_percentage": 0.564,
+      "phase": "\ud83c\udf12"
+    },
+    {
+      "team_id": "OKC",
+      "phase_text": "First Quarter",
+      "total_wins": 72,
+      "total_losses": 71,
+      "total_games": 143,
+      "winning_percentage": 0.503,
+      "phase": "\ud83c\udf13"
+    },
+    {
+      "team_id": "OKC",
+      "phase_text": "Waxing Gibbous",
+      "total_wins": 567,
+      "total_losses": 456,
+      "total_games": 1023,
+      "winning_percentage": 0.554,
+      "phase": "\ud83c\udf14"
+    },
+    {
+      "team_id": "OKC",
+      "phase_text": "Full Moon",
+      "total_wins": 84,
+      "total_losses": 66,
+      "total_games": 150,
+      "winning_percentage": 0.56,
+      "phase": "\ud83c\udf15"
+    },
+    {
+      "team_id": "OKC",
+      "phase_text": "Waning Gibbous",
+      "total_wins": 525,
+      "total_losses": 446,
+      "total_games": 971,
+      "winning_percentage": 0.541,
+      "phase": "\ud83c\udf16"
+    },
+    {
+      "team_id": "OKC",
+      "phase_text": "Last Quarter",
+      "total_wins": 89,
+      "total_losses": 61,
+      "total_games": 150,
+      "winning_percentage": 0.593,
+      "phase": "\ud83c\udf17"
+    },
+    {
+      "team_id": "OKC",
+      "phase_text": "Waning Crescent",
+      "total_wins": 546,
+      "total_losses": 410,
+      "total_games": 956,
+      "winning_percentage": 0.571,
+      "phase": "\ud83c\udf18"
+    },
+    {
+      "team_id": "ORL",
+      "phase_text": "New Moon",
+      "total_wins": 49,
+      "total_losses": 67,
+      "total_games": 116,
+      "winning_percentage": 0.422,
+      "phase": "\ud83c\udf11"
+    },
+    {
+      "team_id": "ORL",
+      "phase_text": "Waxing Crescent",
+      "total_wins": 289,
+      "total_losses": 372,
+      "total_games": 661,
+      "winning_percentage": 0.437,
+      "phase": "\ud83c\udf12"
+    },
+    {
+      "team_id": "ORL",
+      "phase_text": "First Quarter",
+      "total_wins": 54,
+      "total_losses": 60,
+      "total_games": 114,
+      "winning_percentage": 0.474,
+      "phase": "\ud83c\udf13"
+    },
+    {
+      "team_id": "ORL",
+      "phase_text": "Waxing Gibbous",
+      "total_wins": 322,
+      "total_losses": 369,
+      "total_games": 691,
+      "winning_percentage": 0.466,
+      "phase": "\ud83c\udf14"
+    },
+    {
+      "team_id": "ORL",
+      "phase_text": "Full Moon",
+      "total_wins": 49,
+      "total_losses": 59,
+      "total_games": 108,
+      "winning_percentage": 0.454,
+      "phase": "\ud83c\udf15"
+    },
+    {
+      "team_id": "ORL",
+      "phase_text": "Waning Gibbous",
+      "total_wins": 311,
+      "total_losses": 327,
+      "total_games": 638,
+      "winning_percentage": 0.487,
+      "phase": "\ud83c\udf16"
+    },
+    {
+      "team_id": "ORL",
+      "phase_text": "Last Quarter",
+      "total_wins": 59,
+      "total_losses": 55,
+      "total_games": 114,
+      "winning_percentage": 0.518,
+      "phase": "\ud83c\udf17"
+    },
+    {
+      "team_id": "ORL",
+      "phase_text": "Waning Crescent",
+      "total_wins": 318,
+      "total_losses": 330,
+      "total_games": 648,
+      "winning_percentage": 0.491,
+      "phase": "\ud83c\udf18"
+    },
+    {
+      "team_id": "PHI",
+      "phase_text": "New Moon",
+      "total_wins": 76,
+      "total_losses": 81,
+      "total_games": 157,
+      "winning_percentage": 0.484,
+      "phase": "\ud83c\udf11"
+    },
+    {
+      "team_id": "PHI",
+      "phase_text": "Waxing Crescent",
+      "total_wins": 501,
+      "total_losses": 499,
+      "total_games": 1000,
+      "winning_percentage": 0.501,
+      "phase": "\ud83c\udf12"
+    },
+    {
+      "team_id": "PHI",
+      "phase_text": "First Quarter",
+      "total_wins": 68,
+      "total_losses": 80,
+      "total_games": 148,
+      "winning_percentage": 0.459,
+      "phase": "\ud83c\udf13"
+    },
+    {
+      "team_id": "PHI",
+      "phase_text": "Waxing Gibbous",
+      "total_wins": 500,
+      "total_losses": 494,
+      "total_games": 994,
+      "winning_percentage": 0.503,
+      "phase": "\ud83c\udf14"
+    },
+    {
+      "team_id": "PHI",
+      "phase_text": "Full Moon",
+      "total_wins": 90,
+      "total_losses": 68,
+      "total_games": 158,
+      "winning_percentage": 0.57,
+      "phase": "\ud83c\udf15"
+    },
+    {
+      "team_id": "PHI",
+      "phase_text": "Waning Gibbous",
+      "total_wins": 498,
+      "total_losses": 438,
+      "total_games": 936,
+      "winning_percentage": 0.532,
+      "phase": "\ud83c\udf16"
+    },
+    {
+      "team_id": "PHI",
+      "phase_text": "Last Quarter",
+      "total_wins": 73,
+      "total_losses": 76,
+      "total_games": 149,
+      "winning_percentage": 0.49,
+      "phase": "\ud83c\udf17"
+    },
+    {
+      "team_id": "PHI",
+      "phase_text": "Waning Crescent",
+      "total_wins": 478,
+      "total_losses": 481,
+      "total_games": 959,
+      "winning_percentage": 0.498,
+      "phase": "\ud83c\udf18"
+    },
+    {
+      "team_id": "PHO",
+      "phase_text": "New Moon",
+      "total_wins": 92,
+      "total_losses": 73,
+      "total_games": 165,
+      "winning_percentage": 0.558,
+      "phase": "\ud83c\udf11"
+    },
+    {
+      "team_id": "PHO",
+      "phase_text": "Waxing Crescent",
+      "total_wins": 522,
+      "total_losses": 440,
+      "total_games": 962,
+      "winning_percentage": 0.543,
+      "phase": "\ud83c\udf12"
+    },
+    {
+      "team_id": "PHO",
+      "phase_text": "First Quarter",
+      "total_wins": 93,
+      "total_losses": 55,
+      "total_games": 148,
+      "winning_percentage": 0.628,
+      "phase": "\ud83c\udf13"
+    },
+    {
+      "team_id": "PHO",
+      "phase_text": "Waxing Gibbous",
+      "total_wins": 558,
+      "total_losses": 455,
+      "total_games": 1013,
+      "winning_percentage": 0.551,
+      "phase": "\ud83c\udf14"
+    },
+    {
+      "team_id": "PHO",
+      "phase_text": "Full Moon",
+      "total_wins": 83,
+      "total_losses": 69,
+      "total_games": 152,
+      "winning_percentage": 0.546,
+      "phase": "\ud83c\udf15"
+    },
+    {
+      "team_id": "PHO",
+      "phase_text": "Waning Gibbous",
+      "total_wins": 500,
+      "total_losses": 465,
+      "total_games": 965,
+      "winning_percentage": 0.518,
+      "phase": "\ud83c\udf16"
+    },
+    {
+      "team_id": "PHO",
+      "phase_text": "Last Quarter",
+      "total_wins": 76,
+      "total_losses": 73,
+      "total_games": 149,
+      "winning_percentage": 0.51,
+      "phase": "\ud83c\udf17"
+    },
+    {
+      "team_id": "PHO",
+      "phase_text": "Waning Crescent",
+      "total_wins": 512,
+      "total_losses": 426,
+      "total_games": 938,
+      "winning_percentage": 0.546,
+      "phase": "\ud83c\udf18"
+    },
+    {
+      "team_id": "POR",
+      "phase_text": "New Moon",
+      "total_wins": 94,
+      "total_losses": 69,
+      "total_games": 163,
+      "winning_percentage": 0.577,
+      "phase": "\ud83c\udf11"
+    },
+    {
+      "team_id": "POR",
+      "phase_text": "Waxing Crescent",
+      "total_wins": 509,
+      "total_losses": 424,
+      "total_games": 933,
+      "winning_percentage": 0.546,
+      "phase": "\ud83c\udf12"
+    },
+    {
+      "team_id": "POR",
+      "phase_text": "First Quarter",
+      "total_wins": 82,
+      "total_losses": 75,
+      "total_games": 157,
+      "winning_percentage": 0.522,
+      "phase": "\ud83c\udf13"
+    },
+    {
+      "team_id": "POR",
+      "phase_text": "Waxing Gibbous",
+      "total_wins": 537,
+      "total_losses": 469,
+      "total_games": 1006,
+      "winning_percentage": 0.534,
+      "phase": "\ud83c\udf14"
+    },
+    {
+      "team_id": "POR",
+      "phase_text": "Full Moon",
+      "total_wins": 84,
+      "total_losses": 67,
+      "total_games": 151,
+      "winning_percentage": 0.556,
+      "phase": "\ud83c\udf15"
+    },
+    {
+      "team_id": "POR",
+      "phase_text": "Waning Gibbous",
+      "total_wins": 507,
+      "total_losses": 443,
+      "total_games": 950,
+      "winning_percentage": 0.534,
+      "phase": "\ud83c\udf16"
+    },
+    {
+      "team_id": "POR",
+      "phase_text": "Last Quarter",
+      "total_wins": 78,
+      "total_losses": 65,
+      "total_games": 143,
+      "winning_percentage": 0.545,
+      "phase": "\ud83c\udf17"
+    },
+    {
+      "team_id": "POR",
+      "phase_text": "Waning Crescent",
+      "total_wins": 491,
+      "total_losses": 459,
+      "total_games": 950,
+      "winning_percentage": 0.517,
+      "phase": "\ud83c\udf18"
+    },
+    {
+      "team_id": "SAC",
+      "phase_text": "New Moon",
+      "total_wins": 64,
+      "total_losses": 90,
+      "total_games": 154,
+      "winning_percentage": 0.416,
+      "phase": "\ud83c\udf11"
+    },
+    {
+      "team_id": "SAC",
+      "phase_text": "Waxing Crescent",
+      "total_wins": 400,
+      "total_losses": 524,
+      "total_games": 924,
+      "winning_percentage": 0.433,
+      "phase": "\ud83c\udf12"
+    },
+    {
+      "team_id": "SAC",
+      "phase_text": "First Quarter",
+      "total_wins": 71,
+      "total_losses": 77,
+      "total_games": 148,
+      "winning_percentage": 0.48,
+      "phase": "\ud83c\udf13"
+    },
+    {
+      "team_id": "SAC",
+      "phase_text": "Waxing Gibbous",
+      "total_wins": 425,
+      "total_losses": 522,
+      "total_games": 947,
+      "winning_percentage": 0.449,
+      "phase": "\ud83c\udf14"
+    },
+    {
+      "team_id": "SAC",
+      "phase_text": "Full Moon",
+      "total_wins": 56,
+      "total_losses": 91,
+      "total_games": 147,
+      "winning_percentage": 0.381,
+      "phase": "\ud83c\udf15"
+    },
+    {
+      "team_id": "SAC",
+      "phase_text": "Waning Gibbous",
+      "total_wins": 398,
+      "total_losses": 503,
+      "total_games": 901,
+      "winning_percentage": 0.442,
+      "phase": "\ud83c\udf16"
+    },
+    {
+      "team_id": "SAC",
+      "phase_text": "Last Quarter",
+      "total_wins": 59,
+      "total_losses": 90,
+      "total_games": 149,
+      "winning_percentage": 0.396,
+      "phase": "\ud83c\udf17"
+    },
+    {
+      "team_id": "SAC",
+      "phase_text": "Waning Crescent",
+      "total_wins": 398,
+      "total_losses": 526,
+      "total_games": 924,
+      "winning_percentage": 0.431,
+      "phase": "\ud83c\udf18"
+    },
+    {
+      "team_id": "SAS",
+      "phase_text": "New Moon",
+      "total_wins": 103,
+      "total_losses": 67,
+      "total_games": 170,
+      "winning_percentage": 0.606,
+      "phase": "\ud83c\udf11"
+    },
+    {
+      "team_id": "SAS",
+      "phase_text": "Waxing Crescent",
+      "total_wins": 569,
+      "total_losses": 362,
+      "total_games": 931,
+      "winning_percentage": 0.611,
+      "phase": "\ud83c\udf12"
+    },
+    {
+      "team_id": "SAS",
+      "phase_text": "First Quarter",
+      "total_wins": 97,
+      "total_losses": 66,
+      "total_games": 163,
+      "winning_percentage": 0.595,
+      "phase": "\ud83c\udf13"
+    },
+    {
+      "team_id": "SAS",
+      "phase_text": "Waxing Gibbous",
+      "total_wins": 553,
+      "total_losses": 427,
+      "total_games": 980,
+      "winning_percentage": 0.564,
+      "phase": "\ud83c\udf14"
+    },
+    {
+      "team_id": "SAS",
+      "phase_text": "Full Moon",
+      "total_wins": 100,
+      "total_losses": 59,
+      "total_games": 159,
+      "winning_percentage": 0.629,
+      "phase": "\ud83c\udf15"
+    },
+    {
+      "team_id": "SAS",
+      "phase_text": "Waning Gibbous",
+      "total_wins": 553,
+      "total_losses": 380,
+      "total_games": 933,
+      "winning_percentage": 0.593,
+      "phase": "\ud83c\udf16"
+    },
+    {
+      "team_id": "SAS",
+      "phase_text": "Last Quarter",
+      "total_wins": 96,
+      "total_losses": 57,
+      "total_games": 153,
+      "winning_percentage": 0.627,
+      "phase": "\ud83c\udf17"
+    },
+    {
+      "team_id": "SAS",
+      "phase_text": "Waning Crescent",
+      "total_wins": 533,
+      "total_losses": 393,
+      "total_games": 926,
+      "winning_percentage": 0.576,
+      "phase": "\ud83c\udf18"
+    },
+    {
+      "team_id": "TOR",
+      "phase_text": "New Moon",
+      "total_wins": 48,
+      "total_losses": 46,
+      "total_games": 94,
+      "winning_percentage": 0.511,
+      "phase": "\ud83c\udf11"
+    },
+    {
+      "team_id": "TOR",
+      "phase_text": "Waxing Crescent",
+      "total_wins": 280,
+      "total_losses": 275,
+      "total_games": 555,
+      "winning_percentage": 0.505,
+      "phase": "\ud83c\udf12"
+    },
+    {
+      "team_id": "TOR",
+      "phase_text": "First Quarter",
+      "total_wins": 33,
+      "total_losses": 57,
+      "total_games": 90,
+      "winning_percentage": 0.367,
+      "phase": "\ud83c\udf13"
+    },
+    {
+      "team_id": "TOR",
+      "phase_text": "Waxing Gibbous",
+      "total_wins": 275,
+      "total_losses": 313,
+      "total_games": 588,
+      "winning_percentage": 0.468,
+      "phase": "\ud83c\udf14"
+    },
+    {
+      "team_id": "TOR",
+      "phase_text": "Full Moon",
+      "total_wins": 36,
+      "total_losses": 51,
+      "total_games": 87,
+      "winning_percentage": 0.414,
+      "phase": "\ud83c\udf15"
+    },
+    {
+      "team_id": "TOR",
+      "phase_text": "Waning Gibbous",
+      "total_wins": 245,
+      "total_losses": 289,
+      "total_games": 534,
+      "winning_percentage": 0.459,
+      "phase": "\ud83c\udf16"
+    },
+    {
+      "team_id": "TOR",
+      "phase_text": "Last Quarter",
+      "total_wins": 43,
+      "total_losses": 50,
+      "total_games": 93,
+      "winning_percentage": 0.462,
+      "phase": "\ud83c\udf17"
+    },
+    {
+      "team_id": "TOR",
+      "phase_text": "Waning Crescent",
+      "total_wins": 258,
+      "total_losses": 277,
+      "total_games": 535,
+      "winning_percentage": 0.482,
+      "phase": "\ud83c\udf18"
+    },
+    {
+      "team_id": "UTA",
+      "phase_text": "New Moon",
+      "total_wins": 81,
+      "total_losses": 53,
+      "total_games": 134,
+      "winning_percentage": 0.604,
+      "phase": "\ud83c\udf11"
+    },
+    {
+      "team_id": "UTA",
+      "phase_text": "Waxing Crescent",
+      "total_wins": 513,
+      "total_losses": 459,
+      "total_games": 972,
+      "winning_percentage": 0.528,
+      "phase": "\ud83c\udf12"
+    },
+    {
+      "team_id": "UTA",
+      "phase_text": "First Quarter",
+      "total_wins": 86,
+      "total_losses": 72,
+      "total_games": 158,
+      "winning_percentage": 0.544,
+      "phase": "\ud83c\udf13"
+    },
+    {
+      "team_id": "UTA",
+      "phase_text": "Waxing Gibbous",
+      "total_wins": 529,
+      "total_losses": 460,
+      "total_games": 989,
+      "winning_percentage": 0.535,
+      "phase": "\ud83c\udf14"
+    },
+    {
+      "team_id": "UTA",
+      "phase_text": "Full Moon",
+      "total_wins": 72,
+      "total_losses": 80,
+      "total_games": 152,
+      "winning_percentage": 0.474,
+      "phase": "\ud83c\udf15"
+    },
+    {
+      "team_id": "UTA",
+      "phase_text": "Waning Gibbous",
+      "total_wins": 498,
+      "total_losses": 452,
+      "total_games": 950,
+      "winning_percentage": 0.524,
+      "phase": "\ud83c\udf16"
+    },
+    {
+      "team_id": "UTA",
+      "phase_text": "Last Quarter",
+      "total_wins": 74,
+      "total_losses": 73,
+      "total_games": 147,
+      "winning_percentage": 0.503,
+      "phase": "\ud83c\udf17"
+    },
+    {
+      "team_id": "UTA",
+      "phase_text": "Waning Crescent",
+      "total_wins": 494,
+      "total_losses": 470,
+      "total_games": 964,
+      "winning_percentage": 0.512,
+      "phase": "\ud83c\udf18"
+    },
+    {
+      "team_id": "WAS",
+      "phase_text": "New Moon",
+      "total_wins": 60,
+      "total_losses": 96,
+      "total_games": 156,
+      "winning_percentage": 0.385,
+      "phase": "\ud83c\udf11"
+    },
+    {
+      "team_id": "WAS",
+      "phase_text": "Waxing Crescent",
+      "total_wins": 414,
+      "total_losses": 526,
+      "total_games": 940,
+      "winning_percentage": 0.44,
+      "phase": "\ud83c\udf12"
+    },
+    {
+      "team_id": "WAS",
+      "phase_text": "First Quarter",
+      "total_wins": 64,
+      "total_losses": 85,
+      "total_games": 149,
+      "winning_percentage": 0.43,
+      "phase": "\ud83c\udf13"
+    },
+    {
+      "team_id": "WAS",
+      "phase_text": "Waxing Gibbous",
+      "total_wins": 419,
+      "total_losses": 554,
+      "total_games": 973,
+      "winning_percentage": 0.431,
+      "phase": "\ud83c\udf14"
+    },
+    {
+      "team_id": "WAS",
+      "phase_text": "Full Moon",
+      "total_wins": 72,
+      "total_losses": 75,
+      "total_games": 147,
+      "winning_percentage": 0.49,
+      "phase": "\ud83c\udf15"
+    },
+    {
+      "team_id": "WAS",
+      "phase_text": "Waning Gibbous",
+      "total_wins": 404,
+      "total_losses": 502,
+      "total_games": 906,
+      "winning_percentage": 0.446,
+      "phase": "\ud83c\udf16"
+    },
+    {
+      "team_id": "WAS",
+      "phase_text": "Last Quarter",
+      "total_wins": 54,
+      "total_losses": 95,
+      "total_games": 149,
+      "winning_percentage": 0.362,
+      "phase": "\ud83c\udf17"
+    },
+    {
+      "team_id": "WAS",
+      "phase_text": "Waning Crescent",
+      "total_wins": 406,
+      "total_losses": 526,
+      "total_games": 932,
+      "winning_percentage": 0.436,
+      "phase": "\ud83c\udf18"
+    }
+  ]
+}
