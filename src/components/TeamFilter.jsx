@@ -1,5 +1,5 @@
 import React from 'react';
-import "../css/TeamFilter.css";
+import "../css/teamFilter.css";
 
 const TeamFilter = ({ selectedTeam, handleChange }) => {
   const teams = [
