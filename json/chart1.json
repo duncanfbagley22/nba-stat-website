@@ -6,51 +6,58 @@
     {
       "f_name": "CJ",
       "name": "CJ McCollum",
-      "pts": 17936,
+      "pts": 18209,
       "rank": 1,
-      "group_total": 32387
+      "group_total": 32662
     },
     {
       "f_name": "CJ",
       "name": "C.J. Miles",
       "pts": 8431,
       "rank": 2,
-      "group_total": 32387
+      "group_total": 32662
     },
     {
       "f_name": "CJ",
       "name": "C.J. Watson",
       "pts": 4606,
       "rank": 3,
-      "group_total": 32387
+      "group_total": 32662
     },
     {
       "f_name": "CJ",
       "name": "C.J. Kupec",
       "pts": 627,
       "rank": 4,
-      "group_total": 32387
+      "group_total": 32662
     },
     {
       "f_name": "CJ",
       "name": "CJ Elleby",
       "pts": 407,
       "rank": 5,
-      "group_total": 32387
+      "group_total": 32662
     },
     {
       "f_name": "CJ",
       "name": "C.J. Williams",
       "pts": 248,
       "rank": 6,
-      "group_total": 32387
+      "group_total": 32662
     },
     {
       "f_name": "CJ",
       "name": "C.J. Wilcox",
       "pts": 132,
       "rank": 7,
-      "group_total": 32387
+      "group_total": 32662
+    },
+    {
+      "f_name": "CJ",
+      "name": "CJ Huntley",
+      "pts": 2,
+      "rank": 8,
+      "group_total": 32662
     },
     {
       "f_name": "JJ",
@@ -92,70 +99,70 @@
       "name": "P.J. Brown",
       "pts": 10627,
       "rank": 1,
-      "group_total": 24798
+      "group_total": 24964
     },
     {
       "f_name": "PJ",
       "name": "P.J. Tucker",
       "pts": 6589,
       "rank": 2,
-      "group_total": 24798
+      "group_total": 24964
     },
     {
       "f_name": "PJ",
       "name": "P.J. Washington",
-      "pts": 6048,
+      "pts": 6214,
       "rank": 3,
-      "group_total": 24798
+      "group_total": 24964
     },
     {
       "f_name": "PJ",
       "name": "PJ Dozier",
       "pts": 746,
       "rank": 4,
-      "group_total": 24798
+      "group_total": 24964
     },
     {
       "f_name": "PJ",
       "name": "P.J. Hairston",
       "pts": 669,
       "rank": 5,
-      "group_total": 24798
+      "group_total": 24964
     },
     {
       "f_name": "PJ",
       "name": "PJ Hall",
       "pts": 119,
       "rank": 6,
-      "group_total": 24798
+      "group_total": 24964
     },
     {
       "f_name": "TJ",
       "name": "T.J. McConnell",
-      "pts": 6345,
+      "pts": 6454,
       "rank": 1,
-      "group_total": 17444
+      "group_total": 17553
     },
     {
       "f_name": "TJ",
       "name": "T.J. Warren",
       "pts": 5593,
       "rank": 2,
-      "group_total": 17444
+      "group_total": 17553
     },
     {
       "f_name": "TJ",
       "name": "T.J. Ford",
       "pts": 5021,
       "rank": 3,
-      "group_total": 17444
+      "group_total": 17553
     },
     {
       "f_name": "TJ",
       "name": "T.J. Leaf",
       "pts": 485,
       "rank": 4,
-      "group_total": 17444
+      "group_total": 17553
     },
     {
       "f_name": "DJ",
@@ -216,30 +223,30 @@
     {
       "f_name": "RJ",
       "name": "RJ Barrett",
-      "pts": 8226,
+      "pts": 8551,
       "rank": 1,
-      "group_total": 9534
+      "group_total": 9859
     },
     {
       "f_name": "RJ",
       "name": "R.J. Hampton",
       "pts": 1155,
       "rank": 2,
-      "group_total": 9534
+      "group_total": 9859
     },
     {
       "f_name": "RJ",
       "name": "R.J. Hunter",
       "pts": 138,
       "rank": 3,
-      "group_total": 9534
+      "group_total": 9859
     },
     {
       "f_name": "RJ",
       "name": "RJ Nembhard Jr.",
       "pts": 15,
       "rank": 4,
-      "group_total": 9534
+      "group_total": 9859
     },
     {
       "f_name": "BJ",
@@ -272,72 +279,72 @@
     {
       "f_name": "AJ",
       "name": "A.J. Green",
-      "pts": 1596,
+      "pts": 1729,
       "rank": 1,
-      "group_total": 6671
+      "group_total": 6850
     },
     {
       "f_name": "AJ",
       "name": "A.J. Price",
       "pts": 1567,
       "rank": 2,
-      "group_total": 6671
+      "group_total": 6850
     },
     {
       "f_name": "AJ",
       "name": "A.J. English",
       "pts": 1502,
       "rank": 3,
-      "group_total": 6671
+      "group_total": 6850
     },
     {
       "f_name": "AJ",
       "name": "AJ Griffin",
       "pts": 687,
       "rank": 4,
-      "group_total": 6671
+      "group_total": 6850
     },
     {
       "f_name": "AJ",
       "name": "A.J. Lawson",
-      "pts": 488,
+      "pts": 517,
       "rank": 5,
-      "group_total": 6671
+      "group_total": 6850
     },
     {
       "f_name": "AJ",
       "name": "A.J. Guyton",
       "pts": 442,
       "rank": 6,
-      "group_total": 6671
+      "group_total": 6850
     },
     {
       "f_name": "AJ",
       "name": "AJ Johnson",
-      "pts": 321,
+      "pts": 338,
       "rank": 7,
-      "group_total": 6671
+      "group_total": 6850
     },
     {
       "f_name": "AJ",
       "name": "A.J. Hammons",
       "pts": 48,
       "rank": 8,
-      "group_total": 6671
+      "group_total": 6850
     },
     {
       "f_name": "AJ",
       "name": "A.J. Wynder",
       "pts": 12,
       "rank": 9,
-      "group_total": 6671
+      "group_total": 6850
     },
     {
       "f_name": "AJ",
       "name": "A.J. Bramlett",
       "pts": 8,
       "rank": 10,
-      "group_total": 6671
+      "group_total": 6850
     },
     {
       "f_name": "KJ",
@@ -363,23 +370,23 @@
     {
       "f_name": "VJ",
       "name": "VJ Edgecombe",
-      "pts": 867,
+      "pts": 1107,
       "rank": 1,
-      "group_total": 867
-    },
-    {
-      "f_name": "EJ",
-      "name": "E.J. Liddell",
-      "pts": 47,
-      "rank": 1,
-      "group_total": 47
+      "group_total": 1107
     },
     {
       "f_name": "LJ",
       "name": "LJ Cryer",
-      "pts": 6,
+      "pts": 128,
       "rank": 1,
-      "group_total": 6
+      "group_total": 128
+    },
+    {
+      "f_name": "EJ",
+      "name": "E.J. Liddell",
+      "pts": 80,
+      "rank": 1,
+      "group_total": 80
     },
     {
       "f_name": "MJ",
